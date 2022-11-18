@@ -1,0 +1,35 @@
+.arkaplan{
+    background-color: azure;
+    height: 150px;
+    border-bottom: 5px solid orange;
+}
+
+.ust{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 200px;
+}
+
+.ust #logo{
+    color: blue;
+    text-align: center;
+}
+
+.ust #logo img{
+    width: 100px;   
+}
+
+ul{
+    list-style: none;
+}
+
+.ust .menu ul a{
+    color:red;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.ust .menu ul a:hover{
+    color: blue;
+}

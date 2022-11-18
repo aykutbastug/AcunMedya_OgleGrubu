@@ -1,0 +1,32 @@
+.yazirengi{
+    color: blue;
+    background-color: yellow;
+    border: 5px solid gray;
+    border-bottom: 5px solid #f45a2a !important;
+    border-bottom: 2px dotted black;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Verdana;
+}
+
+.icDiv{
+    background-color: white;
+    margin: 10px;
+    padding: 15px;
+    width: 150px;
+    height: 150px;            
+}
+
+div {
+    background-color: aqua;
+}
+
+#deneme{
+    background-color: red;
+    color: white;
+}
+
+ul{
+    list-style-type: square;
+}
