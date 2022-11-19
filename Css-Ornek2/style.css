@@ -1,0 +1,179 @@
+html{
+    font-size: 16px;/*1rem 16px*/
+}
+
+body, h1,h2,ul{
+    margin: 0;
+    padding: 0;
+    font-family: Open Sans;
+}
+ul{
+    list-style: none;
+}
+
+.arkaplan{
+    background-color: #2f4f4f;
+}
+
+.alt-kenar-cizgi{
+    border-bottom:10px solid #daa520;
+}
+
+.icerik{
+    width: 960px;
+    margin: 0 auto;
+}
+
+.ust {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 200px;
+}
+
+.ust .logo{
+    text-align: center;
+    color: #fff;
+}
+
+.ust .logo h1{
+    font-family: Rubik Burned;
+    font-size: 3rem;
+    letter-spacing: .5rem;
+}
+
+.ust .logo h1::first-letter{
+    color: #daa520;
+}
+
+.ust .logo h1:hover::first-letter{
+    background-color: #daa520;
+    color: #fff;
+}
+
+.ust .logo h2{
+    font-size: 1.5rem;
+    letter-spacing: .1rem;
+}
+
+.ust .menu ul{
+    display: flex;
+}
+
+.ust .menu ul li{
+    margin: 0 1rem;
+}
+
+.ust .menu ul a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.ust .menu ul a:hover{
+    color: #daa520;
+}
+
+
+.orta .banner{
+    margin-top: 20px;
+    border: 5px solid #2f4f4f;
+    padding: 5px;
+}
+
+.orta .banner img{
+    display: block;
+    width: 100%;
+}
+
+.orta .bolum2{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.orta .bolum2 .kutu{
+    flex-basis: 290px;
+}
+
+.orta .bolum2 .kutu h2{
+    font-size: 1rem;
+}
+
+.orta .bolum2 .kutu p{
+    font-size: 0.8rem;
+}
+
+.cizgi{
+    border-top: 2px solid #daa520;
+    margin: 20px 0;
+}
+
+.orta .bolum3{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.orta .bolum3 h1{
+    font-size: 1rem;
+}
+
+.orta .bolum3 p{
+    font-size: 0.8rem;
+}
+
+.alt{
+    margin-top: 20px;
+    padding: 20px 0;
+    display: flex;
+    gap: 20px;
+}
+
+.alt .baglantiKutusu{
+    flex-grow: 1;
+}
+
+.alt .baglantiKutusu ul li{
+    margin: 5px 0;
+}
+
+.alt .baglantiKutusu a{
+    font-size: 1rem;
+    text-decoration: none;
+    color: #fff;
+}
+
+.ust-cizgi{
+    border-top: 8px solid #daa520;
+    margin-top: 20px;
+}
+
+.sayfa-basligi {
+    margin-top: 30px;
+    margin-bottom: 60px;
+    border-bottom: 3px solid #daa520;
+}
+
+
+.td-baslik{
+    text-align: right;
+    width: 200px;
+    vertical-align:top;
+}
+
+.icerik .bolum2 input{
+    width: 500px;
+    height: 20px;
+    padding: 5px;
+}
+.icerik .bolum2 textarea{
+    width: 500px;
+    padding: 5px;
+}
+
+.icerik .bolum2 button{
+    padding: 3px;
+    font-weight: bold;
+    width: 100px;
+}
