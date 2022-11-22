@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <script src="js/script.js"></script>
+    <script>
+
+        function MesajGoster(mesaj){
+            //alert("Merhaba dünya!");
+            alert(mesaj);
+        }
+
+        function BuyukSayiyiGoster(sayi1, sayi2){
+            if (sayi1 > sayi2 && sayi1 > 0){
+                alert("1. sayı büyük = " + sayi1);
+            }
+            else if (sayi1 == sayi2){
+                alert("Sayılar eşit");
+            }
+            else {
+                alert("2. sayı büyük = " + sayi2);
+            }
+        }
+
+        //MesajGoster();
+    </script>
+</head>
+<body>
+
+    <button onclick="MesajGoster('yeni mesaj')">Bana Tıkla (alert)</button>
+    <button onclick="MesajGosterLog()">Bana Tıkla (log)</button>
+    <button onclick="BuyukSayiyiGoster(30, 30)">Büyük Sayıyı Bul</button>
+    
+</body>
+</html>

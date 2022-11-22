@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Diziler (Arrays)</title>
+</head>
+<script>
+    let dizi = ["opel","mercedes","volvo"];
+
+    let eleman1 = dizi[0];
+    let eleman2 = dizi[1]
+
+    document.write(eleman1 + "<br>" + eleman2 + "<br>");
+    document.write(dizi + "<br>");
+    document.write(dizi.join("-|-") + "<br>");
+
+    dizi.push("bmw");
+    document.write(dizi.join("-|-") + "<br>");
+
+    // dizi.pop();
+    // dizi.pop();
+    // document.write(dizi.join("-|-") + "<br>");
+
+    dizi.sort(); //A'dan Z'ye göre sıralar
+    document.write(dizi.join("-|-") + "<br>");
+
+    
+    dizi.reverse();  //Z'den A'ya göre sıralar
+    document.write(dizi.join("-|-") + "<br>");
+
+</script>
+<body>
+    
+    
+</body>
+</html>
