@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Döngüler (Loop)</title>
+    <script>
+        for (let i = 5; i < 10; i++) {
+            document.write(i);  
+            document.write("<br>");         
+        }
+
+        document.write("<br>");
+
+        for (let i = 10; i >= 0; i--) {
+            document.write(i);  
+            document.write("<br>");         
+        }
+
+
+        let toplam = 0;
+        let toplam2 = 0;
+        let sonuc =0;
+
+        for (let a = 0; a < 7; a++) {
+            toplam = toplam + a;
+            
+            if (a % 3 == 0){
+                toplam2 = toplam2 + a;
+            } 
+        }
+
+        sonuc = toplam / toplam2;
+        
+        document.write("<br>");
+        document.write(toplam);
+        document.write("<br>");
+        document.write(toplam2);
+        document.write("<br>");
+        document.write(sonuc);  
+
+        document.write("<br>");
+        document.write("<br>");
+
+        for (let index = 0; index < 20; index++) {
+            if (index % 2 == 0){
+                document.write(index);
+                document.write("<br>");
+            }
+        }
+
+        document.write("<br>");        
+        document.write("<br>");
+
+        let renkler = ["sarı", "lacivert", "kırmızı", "beyaz"];
+
+        for (let r = 0; r < renkler.length; r++) {
+            document.write(renkler[r] + "<br>");
+            
+        }
+        
+        document.write("<br>");        
+        document.write("<br>");
+        renkler.forEach(eleman => {
+            document.write(eleman + "<br>");
+        });
+
+        document.write("<br>");        
+        document.write("<br>");
+
+        let kisiler =[{
+            adi : "Aykut",
+            soyadi : "Baştuğ",
+            yas: 36
+        },{
+            adi : "Kullanıcı2",
+            soyadi : "Kull2 Soyadı",
+            yas: 28
+        }];
+
+        kisiler.forEach(kisi =>{
+            document.write(kisi.adi + " " + kisi.soyadi + "<br>");
+
+        });
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
