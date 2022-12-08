@@ -93,7 +93,23 @@ where CategoryName like 'Tel%'
 --truncate table MyUsers
 
 --OrderDetails tabosunda ProductId si 24 olan kayıtların toplam indirim miktarını verir
-select * from OrderDetails
+select SUM(Discount) from OrderDetails where ProductID=24
 
 
 --OrderDetails Sadece indirim uygulanan siparişlarin, indirim miktarı düşülerek genel toplam tutarını veren select cümlesi 
+select SUM((UnitPrice * Quantity) - Discount) from dbo.OrderDetails where Discount>0
+
+
+--Suppliers tablosundaki ContactTitle kolonunda Manager kelimesi geçen kayıtların listesi ?
+select * from [dbo].[Suppliers] where (ContactTitle like '%Manager%' or ContactTitle like '%Sales%') and [Address]='49 Gilbert St.' 
+
+
+select EmployeeID, FirstName + ' ' + LastName as NameSurname from dbo.Employees where TitleOfCourtesy in ('Mr.','Mrs.')
+
+select top 10 * from dbo.Products order by UnitPrice desc, ProductName
+
+
+--stok sayısı 20 ile 50 arasında olan ürünlerin ÜrünAdı, Stok Miktarı değerlerini Stok miktarına göre küçükten büyüğe sıralayarak listeyen sql cümlesi
+--Stok Sayısı = UnitsInStock
+--Ürün Adı = ProductName
+select ProductName, UnitsInStock from Products where UnitsInStock between 20 and 50 order by UnitsInStock asc
