@@ -1,0 +1,15 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\SinavNotuHesaplama\bin\Debug\net6.0\SinavNotuHesaplama.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\SinavNotuHesaplama\bin\Debug\net6.0\SinavNotuHesaplama.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\SinavNotuHesaplama\bin\Debug\net6.0\SinavNotuHesaplama.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\SinavNotuHesaplama\bin\Debug\net6.0\SinavNotuHesaplama.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\SinavNotuHesaplama\bin\Debug\net6.0\SinavNotuHesaplama.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\SinavNotuHesaplama\obj\Debug\net6.0\SinavNotuHesaplama.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\SinavNotuHesaplama\obj\Debug\net6.0\SinavNotuHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\SinavNotuHesaplama\obj\Debug\net6.0\SinavNotuHesaplama.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\SinavNotuHesaplama\obj\Debug\net6.0\SinavNotuHesaplama.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\SinavNotuHesaplama\obj\Debug\net6.0\SinavNotuHesaplama.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\SinavNotuHesaplama\obj\Debug\net6.0\SinavNotuHesaplama.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\SinavNotuHesaplama\obj\Debug\net6.0\refint\SinavNotuHesaplama.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\SinavNotuHesaplama\obj\Debug\net6.0\SinavNotuHesaplama.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\SinavNotuHesaplama\obj\Debug\net6.0\SinavNotuHesaplama.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\SinavNotuHesaplama\obj\Debug\net6.0\ref\SinavNotuHesaplama.dll

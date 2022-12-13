@@ -1,0 +1,15 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\KararYapilari\bin\Debug\net6.0\KararYapilari.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\KararYapilari\bin\Debug\net6.0\KararYapilari.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\KararYapilari\bin\Debug\net6.0\KararYapilari.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\KararYapilari\bin\Debug\net6.0\KararYapilari.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\KararYapilari\bin\Debug\net6.0\KararYapilari.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\KararYapilari\obj\Debug\net6.0\KararYapilari.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\KararYapilari\obj\Debug\net6.0\KararYapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\KararYapilari\obj\Debug\net6.0\KararYapilari.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\KararYapilari\obj\Debug\net6.0\KararYapilari.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\KararYapilari\obj\Debug\net6.0\KararYapilari.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\KararYapilari\obj\Debug\net6.0\KararYapilari.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\KararYapilari\obj\Debug\net6.0\refint\KararYapilari.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\KararYapilari\obj\Debug\net6.0\KararYapilari.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\KararYapilari\obj\Debug\net6.0\KararYapilari.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Console Apps\KararYapilari\obj\Debug\net6.0\ref\KararYapilari.dll
