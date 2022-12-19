@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Console Apps\\ConsoleApp2\\ConsoleApp2.csproj",
-      "projectName": "ConsoleApp2",
-      "projectPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Console Apps\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Console Apps\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectName": "ConsoleApp3",
+      "projectPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Console Apps\\ConsoleApp3\\ConsoleApp3.csproj",
       "packagesPath": "C:\\Users\\aykut\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Console Apps\\ConsoleApp2\\obj\\",
+      "outputPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Console Apps\\ConsoleApp3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
