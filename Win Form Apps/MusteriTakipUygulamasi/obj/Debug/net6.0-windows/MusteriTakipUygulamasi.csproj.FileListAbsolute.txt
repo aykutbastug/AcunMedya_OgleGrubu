@@ -17,3 +17,6 @@ C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Win Form Apps\MusteriTakipUygulamasi\o
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Win Form Apps\MusteriTakipUygulamasi\obj\Debug\net6.0-windows\MusteriTakipUygulamasi.genruntimeconfig.cache
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Win Form Apps\MusteriTakipUygulamasi\obj\Debug\net6.0-windows\ref\MusteriTakipUygulamasi.dll
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Win Form Apps\MusteriTakipUygulamasi\obj\Debug\net6.0-windows\MusteriTakipUygulamasi.frmMusteriEkle.resources
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Win Form Apps\MusteriTakipUygulamasi\obj\Debug\net6.0-windows\MusteriTakipUygulamasi.frmMusteriSil.resources
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Win Form Apps\MusteriTakipUygulamasi\obj\Debug\net6.0-windows\MusteriTakipUygulamasi.Form2.resources
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Win Form Apps\MusteriTakipUygulamasi\obj\Debug\net6.0-windows\MusteriTakipUygulamasi.Form3.resources

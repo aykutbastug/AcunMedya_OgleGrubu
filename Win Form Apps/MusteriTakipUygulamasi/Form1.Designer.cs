@@ -31,7 +31,16 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
             this.listBox1 = new System.Windows.Forms.ListBox();
+            this.contextListe = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.müşteriyiSilToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.müşteriyiGüncelleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+            this.yeniMüşteriEkleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
+            this.listeyiYenileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.örnekToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.label1 = new System.Windows.Forms.Label();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.btnEkle = new System.Windows.Forms.ToolStripButton();
@@ -44,6 +53,8 @@
             this.dgfToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.dfgToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.bilgileriKaydetToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.txtAdres = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
@@ -53,6 +64,8 @@
             this.label4 = new System.Windows.Forms.Label();
             this.txtSoyadi = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.txtKayitTarihi = new System.Windows.Forms.TextBox();
+            this.label8 = new System.Windows.Forms.Label();
             this.txtId = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.txtAdi = new System.Windows.Forms.TextBox();
@@ -65,17 +78,18 @@
             this.txtUnvan = new System.Windows.Forms.TextBox();
             this.label11 = new System.Windows.Forms.Label();
             this.ımageList1 = new System.Windows.Forms.ImageList(this.components);
-            this.label8 = new System.Windows.Forms.Label();
-            this.txtKayitTarihi = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
+            this.contextListe.SuspendLayout();
             this.toolStrip1.SuspendLayout();
             this.tabControl1.SuspendLayout();
+            this.contextMenuStrip1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
+            this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.listBox1);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
@@ -84,8 +98,19 @@
             this.panel1.Size = new System.Drawing.Size(638, 947);
             this.panel1.TabIndex = 0;
             // 
+            // button1
+            // 
+            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
+            this.button1.Location = new System.Drawing.Point(572, 6);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(62, 44);
+            this.button1.TabIndex = 2;
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // listBox1
             // 
+            this.listBox1.ContextMenuStrip = this.contextListe;
             this.listBox1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 41;
@@ -94,6 +119,67 @@
             this.listBox1.Size = new System.Drawing.Size(638, 895);
             this.listBox1.TabIndex = 1;
             this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
+            // 
+            // contextListe
+            // 
+            this.contextListe.ImageScalingSize = new System.Drawing.Size(28, 28);
+            this.contextListe.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.müşteriyiSilToolStripMenuItem,
+            this.müşteriyiGüncelleToolStripMenuItem,
+            this.toolStripSeparator1,
+            this.yeniMüşteriEkleToolStripMenuItem,
+            this.toolStripSeparator2,
+            this.listeyiYenileToolStripMenuItem,
+            this.örnekToolStripMenuItem});
+            this.contextListe.Name = "contextListe";
+            this.contextListe.Size = new System.Drawing.Size(340, 196);
+            // 
+            // müşteriyiSilToolStripMenuItem
+            // 
+            this.müşteriyiSilToolStripMenuItem.Name = "müşteriyiSilToolStripMenuItem";
+            this.müşteriyiSilToolStripMenuItem.Size = new System.Drawing.Size(339, 36);
+            this.müşteriyiSilToolStripMenuItem.Text = "Müşteriyi Sil";
+            this.müşteriyiSilToolStripMenuItem.Click += new System.EventHandler(this.btnSil_Click);
+            // 
+            // müşteriyiGüncelleToolStripMenuItem
+            // 
+            this.müşteriyiGüncelleToolStripMenuItem.Name = "müşteriyiGüncelleToolStripMenuItem";
+            this.müşteriyiGüncelleToolStripMenuItem.Size = new System.Drawing.Size(339, 36);
+            this.müşteriyiGüncelleToolStripMenuItem.Text = "Müşteriyi Güncelle";
+            this.müşteriyiGüncelleToolStripMenuItem.Click += new System.EventHandler(this.btnGuncelle_Click);
+            // 
+            // toolStripSeparator1
+            // 
+            this.toolStripSeparator1.Name = "toolStripSeparator1";
+            this.toolStripSeparator1.Size = new System.Drawing.Size(336, 6);
+            // 
+            // yeniMüşteriEkleToolStripMenuItem
+            // 
+            this.yeniMüşteriEkleToolStripMenuItem.Name = "yeniMüşteriEkleToolStripMenuItem";
+            this.yeniMüşteriEkleToolStripMenuItem.Size = new System.Drawing.Size(339, 36);
+            this.yeniMüşteriEkleToolStripMenuItem.Text = "Yeni Müşteri Ekle";
+            this.yeniMüşteriEkleToolStripMenuItem.Click += new System.EventHandler(this.btnEkle_Click);
+            // 
+            // toolStripSeparator2
+            // 
+            this.toolStripSeparator2.Name = "toolStripSeparator2";
+            this.toolStripSeparator2.Size = new System.Drawing.Size(336, 6);
+            // 
+            // listeyiYenileToolStripMenuItem
+            // 
+            this.listeyiYenileToolStripMenuItem.Name = "listeyiYenileToolStripMenuItem";
+            this.listeyiYenileToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
+            | System.Windows.Forms.Keys.F5)));
+            this.listeyiYenileToolStripMenuItem.Size = new System.Drawing.Size(339, 36);
+            this.listeyiYenileToolStripMenuItem.Text = "Listeyi Yenile";
+            this.listeyiYenileToolStripMenuItem.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // örnekToolStripMenuItem
+            // 
+            this.örnekToolStripMenuItem.Name = "örnekToolStripMenuItem";
+            this.örnekToolStripMenuItem.Size = new System.Drawing.Size(339, 36);
+            this.örnekToolStripMenuItem.Text = "örnek";
+            this.örnekToolStripMenuItem.Click += new System.EventHandler(this.örnekToolStripMenuItem_Click);
             // 
             // label1
             // 
@@ -136,6 +222,7 @@
             // 
             // btnSil
             // 
+            this.btnSil.Enabled = false;
             this.btnSil.Image = ((System.Drawing.Image)(resources.GetObject("btnSil.Image")));
             this.btnSil.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.btnSil.ImageTransparentColor = System.Drawing.Color.Magenta;
@@ -146,6 +233,7 @@
             // 
             // btnGuncelle
             // 
+            this.btnGuncelle.Enabled = false;
             this.btnGuncelle.Image = ((System.Drawing.Image)(resources.GetObject("btnGuncelle.Image")));
             this.btnGuncelle.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.btnGuncelle.ImageTransparentColor = System.Drawing.Color.Magenta;
@@ -169,14 +257,16 @@
             // fdgdfgToolStripMenuItem
             // 
             this.fdgdfgToolStripMenuItem.Name = "fdgdfgToolStripMenuItem";
-            this.fdgdfgToolStripMenuItem.Size = new System.Drawing.Size(211, 40);
-            this.fdgdfgToolStripMenuItem.Text = "fdgdfg";
+            this.fdgdfgToolStripMenuItem.Size = new System.Drawing.Size(315, 40);
+            this.fdgdfgToolStripMenuItem.Text = "Form 2";
+            this.fdgdfgToolStripMenuItem.Click += new System.EventHandler(this.fdgdfgToolStripMenuItem_Click);
             // 
             // sdfgsdfgToolStripMenuItem
             // 
             this.sdfgsdfgToolStripMenuItem.Name = "sdfgsdfgToolStripMenuItem";
-            this.sdfgsdfgToolStripMenuItem.Size = new System.Drawing.Size(211, 40);
-            this.sdfgsdfgToolStripMenuItem.Text = "sdfgsdfg";
+            this.sdfgsdfgToolStripMenuItem.Size = new System.Drawing.Size(315, 40);
+            this.sdfgsdfgToolStripMenuItem.Text = "Form 3";
+            this.sdfgsdfgToolStripMenuItem.Click += new System.EventHandler(this.sdfgsdfgToolStripMenuItem_Click);
             // 
             // toolStripDropDownButton1
             // 
@@ -205,6 +295,7 @@
             // 
             // tabControl1
             // 
+            this.tabControl1.ContextMenuStrip = this.contextMenuStrip1;
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage2);
             this.tabControl1.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -214,6 +305,21 @@
             this.tabControl1.SelectedIndex = 0;
             this.tabControl1.Size = new System.Drawing.Size(919, 889);
             this.tabControl1.TabIndex = 2;
+            // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(28, 28);
+            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.bilgileriKaydetToolStripMenuItem});
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(223, 40);
+            // 
+            // bilgileriKaydetToolStripMenuItem
+            // 
+            this.bilgileriKaydetToolStripMenuItem.Name = "bilgileriKaydetToolStripMenuItem";
+            this.bilgileriKaydetToolStripMenuItem.Size = new System.Drawing.Size(222, 36);
+            this.bilgileriKaydetToolStripMenuItem.Text = "Bilgileri Kaydet";
+            this.bilgileriKaydetToolStripMenuItem.Click += new System.EventHandler(this.btnGuncelle_Click);
             // 
             // tabPage1
             // 
@@ -316,6 +422,26 @@
             this.label3.TabIndex = 0;
             this.label3.Text = "Soyadı :";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // txtKayitTarihi
+            // 
+            this.txtKayitTarihi.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtKayitTarihi.Location = new System.Drawing.Point(314, 89);
+            this.txtKayitTarihi.Name = "txtKayitTarihi";
+            this.txtKayitTarihi.ReadOnly = true;
+            this.txtKayitTarihi.Size = new System.Drawing.Size(578, 48);
+            this.txtKayitTarihi.TabIndex = 1;
+            // 
+            // label8
+            // 
+            this.label8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label8.Location = new System.Drawing.Point(23, 91);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(285, 46);
+            this.label8.TabIndex = 0;
+            this.label8.Text = "Kayıt Tarihi:";
+            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // txtId
             // 
@@ -438,26 +564,6 @@
             this.ımageList1.Images.SetKeyName(0, "fatura_bilgileri");
             this.ımageList1.Images.SetKeyName(1, "musteri_bilgileri");
             // 
-            // label8
-            // 
-            this.label8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label8.Location = new System.Drawing.Point(23, 91);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(285, 46);
-            this.label8.TabIndex = 0;
-            this.label8.Text = "Kayıt Tarihi:";
-            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            // 
-            // txtKayitTarihi
-            // 
-            this.txtKayitTarihi.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtKayitTarihi.Location = new System.Drawing.Point(314, 89);
-            this.txtKayitTarihi.Name = "txtKayitTarihi";
-            this.txtKayitTarihi.ReadOnly = true;
-            this.txtKayitTarihi.Size = new System.Drawing.Size(578, 48);
-            this.txtKayitTarihi.TabIndex = 1;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(17F, 41F);
@@ -472,9 +578,11 @@
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
+            this.contextListe.ResumeLayout(false);
             this.toolStrip1.ResumeLayout(false);
             this.toolStrip1.PerformLayout();
             this.tabControl1.ResumeLayout(false);
+            this.contextMenuStrip1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
             this.tabPage2.ResumeLayout(false);
@@ -487,7 +595,6 @@
         #endregion
 
         private Panel panel1;
-        private ListBox listBox1;
         private Label label1;
         private ToolStrip toolStrip1;
         private ToolStripButton btnEkle;
@@ -523,5 +630,17 @@
         private Label label11;
         private TextBox txtKayitTarihi;
         private Label label8;
+        public ListBox listBox1;
+        private Button button1;
+        private ContextMenuStrip contextListe;
+        private ToolStripMenuItem müşteriyiSilToolStripMenuItem;
+        private ToolStripMenuItem müşteriyiGüncelleToolStripMenuItem;
+        private ToolStripSeparator toolStripSeparator1;
+        private ToolStripMenuItem yeniMüşteriEkleToolStripMenuItem;
+        private ToolStripSeparator toolStripSeparator2;
+        private ToolStripMenuItem listeyiYenileToolStripMenuItem;
+        private ContextMenuStrip contextMenuStrip1;
+        private ToolStripMenuItem bilgileriKaydetToolStripMenuItem;
+        private ToolStripMenuItem örnekToolStripMenuItem;
     }
 }
