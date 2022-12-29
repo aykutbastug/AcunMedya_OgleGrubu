@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.ListViewItem listViewItem2 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem1 = new System.Windows.Forms.ListViewItem(new string[] {
             "Ekmek",
             "5",
             "Fırın"}, "ekmek");
@@ -78,7 +78,7 @@
             this.listUrunler.ContextMenuStrip = this.contextMenuStrip1;
             this.listUrunler.Dock = System.Windows.Forms.DockStyle.Fill;
             this.listUrunler.Items.AddRange(new System.Windows.Forms.ListViewItem[] {
-            listViewItem2});
+            listViewItem1});
             this.listUrunler.LargeImageList = this.ımageList2;
             this.listUrunler.Location = new System.Drawing.Point(0, 0);
             this.listUrunler.Name = "listUrunler";
