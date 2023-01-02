@@ -1,0 +1,59 @@
+﻿@model List<Ogrenci>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@{
+    string gununTarihi = "";
+    gununTarihi = DateTime.Now.ToString("dd.MM.yyyy");
+
+
+    string[] gunler = new string[] { "Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar" };
+
+    
+}
+
+@*sdfg
+sdgfs
+dfg
+sdfg
+s
+dgf*@
+
+
+yetkilendirme sayfası
+<br />
+Tarih: @DateTime.Now
+<br />
+Kısa Tarih : @gununTarihi
+
+<br />
+<h2>Günler</h2>
+<ul>
+    @foreach (var item in gunler)
+    {
+        <li>@item</li>
+    }
+    
+</ul>
+
+<br />
+<br />
+<h2>Öğrenci Listesi</h2>
+<br />
+
+<table>
+    <tr>
+        <td>Id</td>
+        <td>Adı</td>
+        <td>Soyadı</td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Adi</td>
+            <td>@item.Soyadi</td>
+        </tr>
+    }
+</table>
