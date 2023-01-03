@@ -34,6 +34,7 @@
     ".NETCoreApp,Version=v6.0": {
       "WebApplication1/1.0.0": {
         "dependencies": {
+          "MFramework.Services.FakeData": "1.0.21",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "6.0.12",
           "Microsoft.AspNetCore.Antiforgery": "6.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "6.0.0.0",
@@ -329,6 +330,17 @@
         },
         "compile": {
           "WebApplication1.dll": {}
+        }
+      },
+      "MFramework.Services.FakeData/1.0.21": {
+        "runtime": {
+          "lib/netstandard2.0/MFramework.Services.FakeData.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/MFramework.Services.FakeData.dll": {}
         }
       },
       "Microsoft.AspNetCore.Mvc.Razor.Extensions/6.0.12": {
@@ -2283,6 +2295,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "MFramework.Services.FakeData/1.0.21": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JSR2uq9dAVDvNMP9NbkVCtYHtHNzE7o6Da4b333yJq5fye+GRjyARvy3PUz1/kOE38ScSWY0YklkHewJWHt2Pw==",
+      "path": "mframework.services.fakedata/1.0.21",
+      "hashPath": "mframework.services.fakedata.1.0.21.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Mvc.Razor.Extensions/6.0.12": {
       "type": "package",

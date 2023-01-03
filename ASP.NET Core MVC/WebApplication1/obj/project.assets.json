@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "MFramework.Services.FakeData/1.0.21": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MFramework.Services.FakeData.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MFramework.Services.FakeData.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Mvc.Razor.Extensions/6.0.12": {
         "type": "package",
         "dependencies": {
@@ -353,6 +362,18 @@
     }
   },
   "libraries": {
+    "MFramework.Services.FakeData/1.0.21": {
+      "sha512": "JSR2uq9dAVDvNMP9NbkVCtYHtHNzE7o6Da4b333yJq5fye+GRjyARvy3PUz1/kOE38ScSWY0YklkHewJWHt2Pw==",
+      "type": "package",
+      "path": "mframework.services.fakedata/1.0.21",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/MFramework.Services.FakeData.dll",
+        "mframework.services.fakedata.1.0.21.nupkg.sha512",
+        "mframework.services.fakedata.nuspec"
+      ]
+    },
     "Microsoft.AspNetCore.Mvc.Razor.Extensions/6.0.12": {
       "sha512": "ZvFso7iyf8Och3onxxdZtPUlgwGSIM1LcYhD7Pn3zIkwH/jOIHbhVAaud96pJ6LUpuT+hWc2nivjjAtYW4Rmtg==",
       "type": "package",
@@ -933,6 +954,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "MFramework.Services.FakeData >= 1.0.21",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 6.0.12"
     ]
   },
@@ -982,6 +1004,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "MFramework.Services.FakeData": {
+            "target": "Package",
+            "version": "[1.0.21, )"
+          },
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
             "target": "Package",
             "version": "[6.0.12, )"

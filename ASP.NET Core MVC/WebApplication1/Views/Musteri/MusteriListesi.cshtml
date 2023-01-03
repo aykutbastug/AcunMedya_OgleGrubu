@@ -1,0 +1,42 @@
+﻿@model List<Musteri>
+
+<h1>Müşteri Listesi</h1>
+<hr />
+<a class="btn btn-primary" asp-controller="Musteri" asp-action="MusteriEkle">Yeni Müşteri Ekle</a>
+<br />
+<br />
+
+<table class="table table-hover">
+    <tr>
+        <td>No</td>
+        <td>Adı Soyadı</td>
+        <td>Ünvan</td>
+        <td>Kayıt Tarihi</td>
+        <td>E-Fatura</td>
+        <td>Şehir</td>
+        <td>Toplam Borç</td>
+        <td>Toplam Alacak</td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.AdiSoyadi</td>
+            <td>@item.Unvan</td>
+            <td>@item.KayitTarihi</td>
+            <td>
+                @if (item.EFatura)
+                {
+                    <span class="badge bg-success">Evet</span>
+                }
+                else
+                {
+                    <span class="badge bg-danger">Hayır</span>
+                }
+            </td>
+            <td>@item.Sehir</td>
+            <td>@item.ToplamBorc</td>
+            <td>@item.ToplamAlacak</td>
+        </tr>
+    }
+</table>

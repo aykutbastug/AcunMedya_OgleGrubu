@@ -352,3 +352,4 @@ C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\WebApplication1\bin\D
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\WebApplication1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\WebApplication1\bin\Debug\net6.0\MFramework.Services.FakeData.dll

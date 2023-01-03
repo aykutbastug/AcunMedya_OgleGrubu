@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YtPQNLrMfwh1TQ6mcskIqeDAVUuGsZ3HHAvQKtpH59Z06hBli4AzizUypKz9nYtyaVErxEWmiSIb9SpW4X93qg==",
+  "dgSpecHash": "yuhDqhVkG2X5WjVoHZ2kFkrCfBmRetHFnG1WCBl1EvoXCu9GMvWrBYZ8qFxvW6+k3VLjJzL1B+ZonDqb5mOkBQ==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\aykut\\.nuget\\packages\\mframework.services.fakedata\\1.0.21\\mframework.services.fakedata.1.0.21.nupkg.sha512",
     "C:\\Users\\aykut\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.12\\microsoft.aspnetcore.mvc.razor.extensions.6.0.12.nupkg.sha512",
     "C:\\Users\\aykut\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\6.0.12\\microsoft.aspnetcore.mvc.razor.runtimecompilation.6.0.12.nupkg.sha512",
     "C:\\Users\\aykut\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.12\\microsoft.aspnetcore.razor.language.6.0.12.nupkg.sha512",
