@@ -16,6 +16,8 @@
         <td>Şehir</td>
         <td>Toplam Borç</td>
         <td>Toplam Alacak</td>
+        <td>Toplam</td>
+        <td></td>
     </tr>
     @foreach (var item in Model)
     {
@@ -35,8 +37,23 @@
                 }
             </td>
             <td>@item.Sehir</td>
-            <td>@item.ToplamBorc</td>
-            <td>@item.ToplamAlacak</td>
+            <td>@item.ToplamBorc.ToString("n2") ₺</td>
+            <td>@item.ToplamAlacak.ToString("n2") ₺</td>
+            @{
+                double toplam = item.ToplamAlacak - item.ToplamBorc;
+                string renk = "danger";
+                if (toplam > 0)
+                {
+                    renk = "success";
+                }
+            }
+
+            <td><span class="badge bg-@renk">@toplam.ToString("n2") ₺</span></td>
+            <td>
+                @*<a href="~/Musteri/MusteriDuzenle/@item.Id" class="btn btn-warning btn-sm">Güncelle</a>*@
+                <a asp-controller="Musteri" asp-action="MusteriDuzenle" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Güncelle</a>
+                <a asp-controller="Musteri" asp-action="MusteriSil" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Sil</a>
+            </td>
         </tr>
     }
 </table>

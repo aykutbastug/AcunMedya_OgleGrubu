@@ -1,0 +1,20 @@
+﻿@model Musteri
+
+<h1>Müşteri Sil (<b>@Model.AdiSoyadi</b>)</h1>
+<hr />
+
+<div class="container mt-3">
+    <div class="row">
+
+        <b>@Model.AdiSoyadi</b> isimli müşteriyi silme istiyor musunuz ?
+
+        <form method="post" asp-action="MusteriSil" asp-controller="Musteri">
+            <input type="hidden" asp-for="Id" />
+            
+            <div class="mt-3">
+                <button type="submit" class="btn btn-danger">Sil</button>
+                <a asp-action="MusteriListesi" class="btn btn-secondary">Listeye Dön</a>
+            </div>
+        </form>
+    </div>
+</div>

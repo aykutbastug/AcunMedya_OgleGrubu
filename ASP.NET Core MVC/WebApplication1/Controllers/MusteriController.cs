@@ -21,8 +21,8 @@ namespace WebApplication1.Controllers
                         Id = i,
                         KayitTarihi = DateTimeData.GetDatetime(),
                         Sehir = "İstanbul",
-                        ToplamAlacak = NumberData.GetDouble(),
-                        ToplamBorc = NumberData.GetDouble(),
+                        ToplamAlacak = NumberData.GetNumber(1500, 999999),
+                        ToplamBorc = NumberData.GetNumber(1500, 999999),
                         Unvan = NameData.GetCompanyName()
                     });
                 }
@@ -45,5 +45,49 @@ namespace WebApplication1.Controllers
             Musteriler.Add(musteri);
             return RedirectToAction("MusteriListesi");
         }
+
+
+        public IActionResult MusteriDuzenle(int id)
+        {
+            Musteri musteri = Musteriler.FirstOrDefault(x => x.Id == id);
+
+            return View(musteri);
+        }
+
+        [HttpPost]
+        public IActionResult MusteriDuzenle(Musteri musteri)
+        {
+            Musteri _musteri = Musteriler.FirstOrDefault(x => x.Id == musteri.Id);
+            _musteri.Adres = musteri.Adres;
+            _musteri.Sehir = musteri.Sehir;
+            _musteri.EFatura = musteri.EFatura;
+            _musteri.AdiSoyadi = musteri.AdiSoyadi;
+            _musteri.Unvan = musteri.Unvan;
+            _musteri.ToplamAlacak = musteri.ToplamAlacak;
+            _musteri.ToplamBorc = musteri.ToplamBorc;
+
+
+            return RedirectToAction("MusteriListesi");
+        }
+
+        public IActionResult MusteriSil(int id) 
+        {
+            Musteri musteri = Musteriler.FirstOrDefault(x => x.Id == id);
+
+            return View(musteri);
+        }
+
+        [HttpPost]
+        public IActionResult MusteriSil(Musteri musteri)
+        {
+            Musteri _musteri = Musteriler.FirstOrDefault(x => x.Id == musteri.Id);
+
+            Musteriler.Remove(_musteri);
+
+
+            return RedirectToAction("MusteriListesi");
+        }
+
+
     }
 }
