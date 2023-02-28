@@ -1,0 +1,11 @@
+ÖDEV
+
+- 3 tane örnek stored procedure yapılacak
+	- Ürün insert etmek için stored procedure
+	- Kategori silmek için procedure. eğer tanımlı ürün varsa silmeyecek yoksa silecek
+	- Sipariş detay insert etmek için bir procedure yazılacak. eğer olmayan bir ürün ve sipariş numarası girilirse uyarı dönecek 
+- benzer 2 tane daha stored procedure örneği senaryo size ait
+- case when kullanılarak 2 update cümlesi
+- case when kullanılarak 2 select cümlesi
+- JOIN örneği 4 tane
+- GROUP BY örneği 2 tane
