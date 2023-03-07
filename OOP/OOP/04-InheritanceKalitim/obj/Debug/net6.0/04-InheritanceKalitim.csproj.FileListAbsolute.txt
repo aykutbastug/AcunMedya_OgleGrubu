@@ -1,0 +1,15 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\04-InheritanceKalitim\bin\Debug\net6.0\04-InheritanceKalitim.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\04-InheritanceKalitim\bin\Debug\net6.0\04-InheritanceKalitim.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\04-InheritanceKalitim\bin\Debug\net6.0\04-InheritanceKalitim.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\04-InheritanceKalitim\bin\Debug\net6.0\04-InheritanceKalitim.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\04-InheritanceKalitim\bin\Debug\net6.0\04-InheritanceKalitim.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\04-InheritanceKalitim\obj\Debug\net6.0\04-InheritanceKalitim.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\04-InheritanceKalitim\obj\Debug\net6.0\04-InheritanceKalitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\04-InheritanceKalitim\obj\Debug\net6.0\04-InheritanceKalitim.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\04-InheritanceKalitim\obj\Debug\net6.0\04-InheritanceKalitim.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\04-InheritanceKalitim\obj\Debug\net6.0\04-InheritanceKalitim.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\04-InheritanceKalitim\obj\Debug\net6.0\04-InheritanceKalitim.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\04-InheritanceKalitim\obj\Debug\net6.0\refint\04-InheritanceKalitim.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\04-InheritanceKalitim\obj\Debug\net6.0\04-InheritanceKalitim.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\04-InheritanceKalitim\obj\Debug\net6.0\04-InheritanceKalitim.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\04-InheritanceKalitim\obj\Debug\net6.0\ref\04-InheritanceKalitim.dll

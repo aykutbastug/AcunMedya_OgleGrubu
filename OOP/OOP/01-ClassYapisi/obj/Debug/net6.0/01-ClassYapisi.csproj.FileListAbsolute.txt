@@ -1,0 +1,15 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\01-ClassYapisi\bin\Debug\net6.0\01-ClassYapisi.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\01-ClassYapisi\bin\Debug\net6.0\01-ClassYapisi.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\01-ClassYapisi\bin\Debug\net6.0\01-ClassYapisi.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\01-ClassYapisi\bin\Debug\net6.0\01-ClassYapisi.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\01-ClassYapisi\bin\Debug\net6.0\01-ClassYapisi.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\01-ClassYapisi\obj\Debug\net6.0\01-ClassYapisi.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\01-ClassYapisi\obj\Debug\net6.0\01-ClassYapisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\01-ClassYapisi\obj\Debug\net6.0\01-ClassYapisi.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\01-ClassYapisi\obj\Debug\net6.0\01-ClassYapisi.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\01-ClassYapisi\obj\Debug\net6.0\01-ClassYapisi.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\01-ClassYapisi\obj\Debug\net6.0\01-ClassYapisi.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\01-ClassYapisi\obj\Debug\net6.0\refint\01-ClassYapisi.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\01-ClassYapisi\obj\Debug\net6.0\01-ClassYapisi.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\01-ClassYapisi\obj\Debug\net6.0\01-ClassYapisi.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\01-ClassYapisi\obj\Debug\net6.0\ref\01-ClassYapisi.dll

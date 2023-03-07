@@ -1,0 +1,15 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\02-StaticClassYapisi\obj\Debug\net6.0\02-StaticClassYapisi.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\02-StaticClassYapisi\obj\Debug\net6.0\02-StaticClassYapisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\02-StaticClassYapisi\obj\Debug\net6.0\02-StaticClassYapisi.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\02-StaticClassYapisi\obj\Debug\net6.0\02-StaticClassYapisi.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\02-StaticClassYapisi\obj\Debug\net6.0\02-StaticClassYapisi.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\02-StaticClassYapisi\bin\Debug\net6.0\02-StaticClassYapisi.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\02-StaticClassYapisi\bin\Debug\net6.0\02-StaticClassYapisi.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\02-StaticClassYapisi\bin\Debug\net6.0\02-StaticClassYapisi.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\02-StaticClassYapisi\bin\Debug\net6.0\02-StaticClassYapisi.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\02-StaticClassYapisi\bin\Debug\net6.0\02-StaticClassYapisi.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\02-StaticClassYapisi\obj\Debug\net6.0\02-StaticClassYapisi.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\02-StaticClassYapisi\obj\Debug\net6.0\refint\02-StaticClassYapisi.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\02-StaticClassYapisi\obj\Debug\net6.0\02-StaticClassYapisi.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\02-StaticClassYapisi\obj\Debug\net6.0\02-StaticClassYapisi.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\02-StaticClassYapisi\obj\Debug\net6.0\ref\02-StaticClassYapisi.dll

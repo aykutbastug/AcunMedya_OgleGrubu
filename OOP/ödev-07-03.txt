@@ -1,0 +1,34 @@
+ÖDEV
+_________________________________________________________________________________
+
+1- İşlem tipi, sayi1 ve sayı2 paramatrelerine sahip bir function yazılarak işlem tipine göre sayılar arasında 4 işlemden birini uygulayarak sonucu geri döndüren function örneği.
+
+ÖRNEK : dbo.Hesapla('TOPLA', 5, 8) SONUÇ = 13
+
+_________________________________________________________________________________
+
+2- Personel adını, soyadını ve toplam sipariş tutarını çekmek istiyoruz. Personel listesini çekerken toplam sipariş sayısını function yazarak listeye dolduran örnek SQL cümlesinin yazılması.
+
+_________________________________________________________________________________
+
+3- PersonelId, adı, soyadı ve toplam sipariş tutarı kolonlarına sahip bir tablo yapalım. Sipariş detay tablosuna her kayıt eklendiğinde bu tabloya siparişe ait personel bilgilerini toplam tutarı toplayarak üst üste yazan trigger örneğini yazalım. Aynı zamanda sipariş detay dan satır silindiğinde aynı tablodaki toplam tutar alanını eksilten trigger örneğini yazalım.
+
+_________________________________________________________________________________
+
+4- Suppliers tablosunun birebir aynısından bir tablo daha oluşturun ve ekstradan İşlemTipi, İşlemTarihi kolonlarına sahip olsun. İşlemTipi kolonuna 'Silindi', 'Güncellendi' değerleri yazılacak. Tablo ismi ‘Log_Suppliers’ olabilir. Bu tablodan her kayıt güncellendiğinde ve silindiğinde bu tabloya ilgili satırın verileri insert eden trigger yazılacak.
+
+_________________________________________________________________________________
+
+5- Kedi, köpek, kanarya hayvanlarına ait bir nesne tabanlı programla örneği yazınız. 
+
+Her birinin yaş, ayak sayısı, göz rengi gibi ortak özellikleri bulunmaktadır.
+
+Bunların dışında,
+Kediler ve köpekler diş sayısı ve atlama mesafesi gibi özelliklere sahipken, kanaryaların gaga uzunluğu ve maksimum havada kalma süresi özelliklerine sahip olmalıdır.
+
+Hepsininde Yemek yeme, su içme ve nefes alıp verme gibi eylemleri yerine getirebiliyor olması gerekiyor. 
+
+Bunların dışında 
+kedinin miyavla, kuyruk salla
+köpeğin havla ve kuyruk salla
+Kanaryanın ise kanat çırp ve uç gibi eylemleri yerine getirebilmeli.

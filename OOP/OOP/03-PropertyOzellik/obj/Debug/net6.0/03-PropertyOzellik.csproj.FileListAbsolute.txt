@@ -1,0 +1,15 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\03-PropertyOzellik\bin\Debug\net6.0\03-PropertyOzellik.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\03-PropertyOzellik\bin\Debug\net6.0\03-PropertyOzellik.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\03-PropertyOzellik\bin\Debug\net6.0\03-PropertyOzellik.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\03-PropertyOzellik\bin\Debug\net6.0\03-PropertyOzellik.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\03-PropertyOzellik\bin\Debug\net6.0\03-PropertyOzellik.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\03-PropertyOzellik\obj\Debug\net6.0\03-PropertyOzellik.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\03-PropertyOzellik\obj\Debug\net6.0\03-PropertyOzellik.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\03-PropertyOzellik\obj\Debug\net6.0\03-PropertyOzellik.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\03-PropertyOzellik\obj\Debug\net6.0\03-PropertyOzellik.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\03-PropertyOzellik\obj\Debug\net6.0\03-PropertyOzellik.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\03-PropertyOzellik\obj\Debug\net6.0\03-PropertyOzellik.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\03-PropertyOzellik\obj\Debug\net6.0\refint\03-PropertyOzellik.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\03-PropertyOzellik\obj\Debug\net6.0\03-PropertyOzellik.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\03-PropertyOzellik\obj\Debug\net6.0\03-PropertyOzellik.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\03-PropertyOzellik\obj\Debug\net6.0\ref\03-PropertyOzellik.dll
