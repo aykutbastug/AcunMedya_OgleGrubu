@@ -1,0 +1,5 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\10-StructKavrami\obj\Debug\net6.0\10-StructKavrami.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\10-StructKavrami\obj\Debug\net6.0\10-StructKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\10-StructKavrami\obj\Debug\net6.0\10-StructKavrami.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\10-StructKavrami\obj\Debug\net6.0\10-StructKavrami.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\10-StructKavrami\obj\Debug\net6.0\10-StructKavrami.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\11-EnumKavrami\bin\Debug\net6.0\11-EnumKavrami.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\11-EnumKavrami\bin\Debug\net6.0\11-EnumKavrami.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\11-EnumKavrami\bin\Debug\net6.0\11-EnumKavrami.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\11-EnumKavrami\bin\Debug\net6.0\11-EnumKavrami.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\11-EnumKavrami\bin\Debug\net6.0\11-EnumKavrami.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\11-EnumKavrami\obj\Debug\net6.0\11-EnumKavrami.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\11-EnumKavrami\obj\Debug\net6.0\11-EnumKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\11-EnumKavrami\obj\Debug\net6.0\11-EnumKavrami.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\11-EnumKavrami\obj\Debug\net6.0\11-EnumKavrami.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\11-EnumKavrami\obj\Debug\net6.0\11-EnumKavrami.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\11-EnumKavrami\obj\Debug\net6.0\11-EnumKavrami.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\11-EnumKavrami\obj\Debug\net6.0\refint\11-EnumKavrami.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\11-EnumKavrami\obj\Debug\net6.0\11-EnumKavrami.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\11-EnumKavrami\obj\Debug\net6.0\11-EnumKavrami.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\11-EnumKavrami\obj\Debug\net6.0\ref\11-EnumKavrami.dll

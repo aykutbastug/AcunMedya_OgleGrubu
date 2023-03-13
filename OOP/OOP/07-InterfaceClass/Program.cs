@@ -22,6 +22,10 @@ namespace _07_InterfaceClass
             Yonetici yonetici = new Yonetici();
             yonetici.Adi = "Hasan";
             yonetici.ToplantiYap();
+
+            Asistan asistan = new Asistan();
+            asistan.Adi = "Burcu";
+            asistan.ToplantiPlanla();
         }
     }
 }

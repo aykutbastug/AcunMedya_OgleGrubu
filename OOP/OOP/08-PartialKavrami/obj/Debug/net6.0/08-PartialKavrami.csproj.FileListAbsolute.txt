@@ -1,0 +1,15 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\08-PartialKavrami\bin\Debug\net6.0\08-PartialKavrami.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\08-PartialKavrami\bin\Debug\net6.0\08-PartialKavrami.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\08-PartialKavrami\bin\Debug\net6.0\08-PartialKavrami.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\08-PartialKavrami\bin\Debug\net6.0\08-PartialKavrami.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\08-PartialKavrami\bin\Debug\net6.0\08-PartialKavrami.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\08-PartialKavrami\obj\Debug\net6.0\08-PartialKavrami.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\08-PartialKavrami\obj\Debug\net6.0\08-PartialKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\08-PartialKavrami\obj\Debug\net6.0\08-PartialKavrami.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\08-PartialKavrami\obj\Debug\net6.0\08-PartialKavrami.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\08-PartialKavrami\obj\Debug\net6.0\08-PartialKavrami.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\08-PartialKavrami\obj\Debug\net6.0\08-PartialKavrami.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\08-PartialKavrami\obj\Debug\net6.0\refint\08-PartialKavrami.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\08-PartialKavrami\obj\Debug\net6.0\08-PartialKavrami.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\08-PartialKavrami\obj\Debug\net6.0\08-PartialKavrami.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\08-PartialKavrami\obj\Debug\net6.0\ref\08-PartialKavrami.dll

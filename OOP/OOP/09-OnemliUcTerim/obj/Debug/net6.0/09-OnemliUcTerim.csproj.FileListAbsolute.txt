@@ -1,0 +1,15 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\09-OnemliUcTerim\bin\Debug\net6.0\09-OnemliUcTerim.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\09-OnemliUcTerim\bin\Debug\net6.0\09-OnemliUcTerim.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\09-OnemliUcTerim\bin\Debug\net6.0\09-OnemliUcTerim.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\09-OnemliUcTerim\bin\Debug\net6.0\09-OnemliUcTerim.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\09-OnemliUcTerim\bin\Debug\net6.0\09-OnemliUcTerim.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\09-OnemliUcTerim\obj\Debug\net6.0\09-OnemliUcTerim.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\09-OnemliUcTerim\obj\Debug\net6.0\09-OnemliUcTerim.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\09-OnemliUcTerim\obj\Debug\net6.0\09-OnemliUcTerim.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\09-OnemliUcTerim\obj\Debug\net6.0\09-OnemliUcTerim.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\09-OnemliUcTerim\obj\Debug\net6.0\09-OnemliUcTerim.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\09-OnemliUcTerim\obj\Debug\net6.0\09-OnemliUcTerim.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\09-OnemliUcTerim\obj\Debug\net6.0\refint\09-OnemliUcTerim.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\09-OnemliUcTerim\obj\Debug\net6.0\09-OnemliUcTerim.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\09-OnemliUcTerim\obj\Debug\net6.0\09-OnemliUcTerim.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\09-OnemliUcTerim\obj\Debug\net6.0\ref\09-OnemliUcTerim.dll

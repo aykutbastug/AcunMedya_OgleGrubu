@@ -23,6 +23,11 @@ namespace _07_InterfaceClass
         void ToplantiYap();
     }
 
+    public interface IPlanla
+    {
+        void ToplantiPlanla();
+    }
+
 
     public class Personel : Calisan, IGorev
     {
@@ -32,7 +37,7 @@ namespace _07_InterfaceClass
         }
     }
 
-    public class Koordinator : Calisan, IGorev, IToplanti
+    public class Koordinator : Calisan, IGorev, IToplanti, IPlanla
     {
         public void GorevYap()
         {
@@ -60,6 +65,14 @@ namespace _07_InterfaceClass
         public void ToplantiYap()
         {
             Console.WriteLine(this.Adi + " isimli yönetici toplantı yaptı");
+        }
+    }
+
+    public class Asistan : Calisan, IPlanla
+    {
+        public void ToplantiPlanla()
+        {
+            Console.WriteLine(base.Adi + " isimli asistan Toplantı planladı");
         }
     }
 }
