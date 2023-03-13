@@ -1,0 +1,15 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\07-InterfaceClass\bin\Debug\net6.0\07-InterfaceClass.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\07-InterfaceClass\bin\Debug\net6.0\07-InterfaceClass.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\07-InterfaceClass\bin\Debug\net6.0\07-InterfaceClass.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\07-InterfaceClass\bin\Debug\net6.0\07-InterfaceClass.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\07-InterfaceClass\bin\Debug\net6.0\07-InterfaceClass.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\07-InterfaceClass\obj\Debug\net6.0\07-InterfaceClass.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\07-InterfaceClass\obj\Debug\net6.0\07-InterfaceClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\07-InterfaceClass\obj\Debug\net6.0\07-InterfaceClass.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\07-InterfaceClass\obj\Debug\net6.0\07-InterfaceClass.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\07-InterfaceClass\obj\Debug\net6.0\07-InterfaceClass.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\07-InterfaceClass\obj\Debug\net6.0\07-InterfaceClass.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\07-InterfaceClass\obj\Debug\net6.0\refint\07-InterfaceClass.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\07-InterfaceClass\obj\Debug\net6.0\07-InterfaceClass.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\07-InterfaceClass\obj\Debug\net6.0\07-InterfaceClass.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\07-InterfaceClass\obj\Debug\net6.0\ref\07-InterfaceClass.dll

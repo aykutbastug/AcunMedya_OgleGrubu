@@ -5,11 +5,17 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-ClassYapisi", "01-ClassYapisi\01-ClassYapisi.csproj", "{93D7242E-F9C6-4ED5-8853-6022848923D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-StaticClassYapisi", "02-StaticClassYapisi\02-StaticClassYapisi.csproj", "{7FF60881-FE43-4731-A0E8-59E42EA397D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-StaticClassYapisi", "02-StaticClassYapisi\02-StaticClassYapisi.csproj", "{7FF60881-FE43-4731-A0E8-59E42EA397D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-PropertyOzellik", "03-PropertyOzellik\03-PropertyOzellik.csproj", "{D06F2A90-06A8-4200-959A-C633C0370017}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-PropertyOzellik", "03-PropertyOzellik\03-PropertyOzellik.csproj", "{D06F2A90-06A8-4200-959A-C633C0370017}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-InheritanceKalitim", "04-InheritanceKalitim\04-InheritanceKalitim.csproj", "{0C2A6BA4-022B-43C8-BE9F-81F32B7CAE54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-InheritanceKalitim", "04-InheritanceKalitim\04-InheritanceKalitim.csproj", "{0C2A6BA4-022B-43C8-BE9F-81F32B7CAE54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-AbstractClass", "05-AbstractClass\05-AbstractClass.csproj", "{B14DB29B-D13C-41ED-85D4-16B56DE6F6A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-VirtualMetot", "06-VirtualMetot\06-VirtualMetot.csproj", "{57472243-016B-4458-995B-B684217F3933}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-InterfaceClass", "07-InterfaceClass\07-InterfaceClass.csproj", "{717C8DB4-2E93-4FF2-9417-9FA9DDDF9438}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{0C2A6BA4-022B-43C8-BE9F-81F32B7CAE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C2A6BA4-022B-43C8-BE9F-81F32B7CAE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C2A6BA4-022B-43C8-BE9F-81F32B7CAE54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14DB29B-D13C-41ED-85D4-16B56DE6F6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14DB29B-D13C-41ED-85D4-16B56DE6F6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14DB29B-D13C-41ED-85D4-16B56DE6F6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14DB29B-D13C-41ED-85D4-16B56DE6F6A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57472243-016B-4458-995B-B684217F3933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57472243-016B-4458-995B-B684217F3933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57472243-016B-4458-995B-B684217F3933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57472243-016B-4458-995B-B684217F3933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{717C8DB4-2E93-4FF2-9417-9FA9DDDF9438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717C8DB4-2E93-4FF2-9417-9FA9DDDF9438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717C8DB4-2E93-4FF2-9417-9FA9DDDF9438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717C8DB4-2E93-4FF2-9417-9FA9DDDF9438}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

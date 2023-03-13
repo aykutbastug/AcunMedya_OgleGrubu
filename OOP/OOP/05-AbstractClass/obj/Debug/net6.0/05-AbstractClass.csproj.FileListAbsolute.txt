@@ -1,0 +1,15 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\05-AbstractClass\bin\Debug\net6.0\05-AbstractClass.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\05-AbstractClass\bin\Debug\net6.0\05-AbstractClass.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\05-AbstractClass\bin\Debug\net6.0\05-AbstractClass.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\05-AbstractClass\bin\Debug\net6.0\05-AbstractClass.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\05-AbstractClass\bin\Debug\net6.0\05-AbstractClass.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\05-AbstractClass\obj\Debug\net6.0\05-AbstractClass.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\05-AbstractClass\obj\Debug\net6.0\05-AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\05-AbstractClass\obj\Debug\net6.0\05-AbstractClass.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\05-AbstractClass\obj\Debug\net6.0\05-AbstractClass.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\05-AbstractClass\obj\Debug\net6.0\05-AbstractClass.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\05-AbstractClass\obj\Debug\net6.0\05-AbstractClass.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\05-AbstractClass\obj\Debug\net6.0\refint\05-AbstractClass.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\05-AbstractClass\obj\Debug\net6.0\05-AbstractClass.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\05-AbstractClass\obj\Debug\net6.0\05-AbstractClass.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\05-AbstractClass\obj\Debug\net6.0\ref\05-AbstractClass.dll
