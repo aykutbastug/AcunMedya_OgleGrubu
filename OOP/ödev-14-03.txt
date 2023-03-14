@@ -1,0 +1,23 @@
+Banka Kartları Nesnel Mimari Geliştirme Örneği
+
+Bankamatik
+Kredi Kartı(Platinium)
+Kredi Kartı(Gold)
+Kredi Kartı(Silver)
+________________________
+	
+Üretilen kart türleri(hepsi), "Kart" sınıfından türemelidir. Kart sınıfında "BankaAdi", "KartAdi", "KartTuru"(enum olarak oluşturun "Visa" ya da "Master"), "CVVKodu" özellikleri ile "ParaCek(tutar)" ve "ParaYatirma(tutar)" yetenekleri tüm kartlara gelmeli.
+
+Ayrıca kartların türüne göre bazı ek özellik ve metotlar(yetenekler) kazanmalı.
+
+- Bankamatik
+	"HesapTuru(enum olmalı TL,USD, EURO, AUX)", "Bakiye" özellikleri ve "HavaleGonder(iban, tutar)", "LimitTanimla(tutar)" metotları içermelidir.
+
+- Platinium
+	"ClubUyeligiVarMi", "UyelikBaslangicTarihi", "UyelikBitisTarihi", "KazanilanPuan", "SonKullanimTarihi", "EkKartMi" özellikleri ve "UyeligiYenile", "UyeligiBitir", "HavaleGonder(iban, tutar)", "EftGonder(iban, tutar)", "BorcOde(tutar)" metotları içermelidir.
+	
+- Gold
+	"IndirimOzelligiVarMi", "KampanyaTanimliMi", "KampanyaBaslangicTarihi", "KazanilanPuan", "KampanyaBitisTarihi" ,"EkKartMi", "SonKullanimTarihi" özellikleri ve "KampanyaTanimla", "KampanyaBitir", "BorcOde(tutar)", "TaksitYap(tutar,taksitSayisi)", "HavaleGonder(iban, tutar)" metotları içermelidir.
+
+- Silver
+	"KisitlamaVarMi", "KisitlamaTarihi", "SonKullanimTarihi", "EkKartMi" özellikleri ve "EftGonder(iban, tutar)", "BorcOde(tutar)", "TaksitYap(tutar,taksitSayisi)" metotları içermelidir.

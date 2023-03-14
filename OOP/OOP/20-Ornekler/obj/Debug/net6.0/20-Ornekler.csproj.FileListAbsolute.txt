@@ -1,0 +1,15 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\20-Ornekler\bin\Debug\net6.0\20-Ornekler.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\20-Ornekler\bin\Debug\net6.0\20-Ornekler.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\20-Ornekler\bin\Debug\net6.0\20-Ornekler.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\20-Ornekler\bin\Debug\net6.0\20-Ornekler.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\20-Ornekler\bin\Debug\net6.0\20-Ornekler.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\20-Ornekler\obj\Debug\net6.0\20-Ornekler.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\20-Ornekler\obj\Debug\net6.0\20-Ornekler.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\20-Ornekler\obj\Debug\net6.0\20-Ornekler.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\20-Ornekler\obj\Debug\net6.0\20-Ornekler.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\20-Ornekler\obj\Debug\net6.0\20-Ornekler.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\20-Ornekler\obj\Debug\net6.0\20-Ornekler.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\20-Ornekler\obj\Debug\net6.0\refint\20-Ornekler.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\20-Ornekler\obj\Debug\net6.0\20-Ornekler.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\20-Ornekler\obj\Debug\net6.0\20-Ornekler.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\20-Ornekler\obj\Debug\net6.0\ref\20-Ornekler.dll

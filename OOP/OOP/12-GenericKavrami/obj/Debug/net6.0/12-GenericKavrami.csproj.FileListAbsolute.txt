@@ -1,0 +1,15 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\12-GenericKavrami\bin\Debug\net6.0\12-GenericKavrami.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\12-GenericKavrami\bin\Debug\net6.0\12-GenericKavrami.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\12-GenericKavrami\bin\Debug\net6.0\12-GenericKavrami.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\12-GenericKavrami\bin\Debug\net6.0\12-GenericKavrami.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\12-GenericKavrami\bin\Debug\net6.0\12-GenericKavrami.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\12-GenericKavrami\obj\Debug\net6.0\12-GenericKavrami.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\12-GenericKavrami\obj\Debug\net6.0\12-GenericKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\12-GenericKavrami\obj\Debug\net6.0\12-GenericKavrami.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\12-GenericKavrami\obj\Debug\net6.0\12-GenericKavrami.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\12-GenericKavrami\obj\Debug\net6.0\12-GenericKavrami.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\12-GenericKavrami\obj\Debug\net6.0\12-GenericKavrami.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\12-GenericKavrami\obj\Debug\net6.0\refint\12-GenericKavrami.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\12-GenericKavrami\obj\Debug\net6.0\12-GenericKavrami.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\12-GenericKavrami\obj\Debug\net6.0\12-GenericKavrami.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\OOP\OOP\12-GenericKavrami\obj\Debug\net6.0\ref\12-GenericKavrami.dll

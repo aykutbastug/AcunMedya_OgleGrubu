@@ -11,19 +11,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-PropertyOzellik", "03-Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-InheritanceKalitim", "04-InheritanceKalitim\04-InheritanceKalitim.csproj", "{0C2A6BA4-022B-43C8-BE9F-81F32B7CAE54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-AbstractClass", "05-AbstractClass\05-AbstractClass.csproj", "{B14DB29B-D13C-41ED-85D4-16B56DE6F6A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-AbstractClass", "05-AbstractClass\05-AbstractClass.csproj", "{B14DB29B-D13C-41ED-85D4-16B56DE6F6A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-VirtualMetot", "06-VirtualMetot\06-VirtualMetot.csproj", "{57472243-016B-4458-995B-B684217F3933}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-VirtualMetot", "06-VirtualMetot\06-VirtualMetot.csproj", "{57472243-016B-4458-995B-B684217F3933}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-InterfaceClass", "07-InterfaceClass\07-InterfaceClass.csproj", "{717C8DB4-2E93-4FF2-9417-9FA9DDDF9438}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-InterfaceClass", "07-InterfaceClass\07-InterfaceClass.csproj", "{717C8DB4-2E93-4FF2-9417-9FA9DDDF9438}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-PartialKavrami", "08-PartialKavrami\08-PartialKavrami.csproj", "{ECE821A1-C9AF-497B-8067-0BBDA7DA1749}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-PartialKavrami", "08-PartialKavrami\08-PartialKavrami.csproj", "{ECE821A1-C9AF-497B-8067-0BBDA7DA1749}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-OnemliUcTerim", "09-OnemliUcTerim\09-OnemliUcTerim.csproj", "{E79E289C-9380-4527-A5C1-7BC20C2FC06E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-OnemliUcTerim", "09-OnemliUcTerim\09-OnemliUcTerim.csproj", "{E79E289C-9380-4527-A5C1-7BC20C2FC06E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-StructKavrami", "10-StructKavrami\10-StructKavrami.csproj", "{FB1D0EC5-22F4-47FF-9A6E-D7A3287E385B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-StructKavrami", "10-StructKavrami\10-StructKavrami.csproj", "{FB1D0EC5-22F4-47FF-9A6E-D7A3287E385B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-EnumKavrami", "11-EnumKavrami\11-EnumKavrami.csproj", "{808C44DC-617D-4224-A099-396CE4E3EA2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-EnumKavrami", "11-EnumKavrami\11-EnumKavrami.csproj", "{808C44DC-617D-4224-A099-396CE4E3EA2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-GenericKavrami", "12-GenericKavrami\12-GenericKavrami.csproj", "{F02DB3B9-855B-4587-BA00-30ECE816059D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-GenericInterface", "13-GenericInterface\13-GenericInterface.csproj", "{0C347BC8-CF36-4106-A321-B269B8989F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-Ornekler", "20-Ornekler\20-Ornekler.csproj", "{643E3287-DE70-4E05-B985-1F905A8EA892}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +81,18 @@ Global
 		{808C44DC-617D-4224-A099-396CE4E3EA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{808C44DC-617D-4224-A099-396CE4E3EA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{808C44DC-617D-4224-A099-396CE4E3EA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F02DB3B9-855B-4587-BA00-30ECE816059D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02DB3B9-855B-4587-BA00-30ECE816059D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02DB3B9-855B-4587-BA00-30ECE816059D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02DB3B9-855B-4587-BA00-30ECE816059D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C347BC8-CF36-4106-A321-B269B8989F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C347BC8-CF36-4106-A321-B269B8989F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C347BC8-CF36-4106-A321-B269B8989F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C347BC8-CF36-4106-A321-B269B8989F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643E3287-DE70-4E05-B985-1F905A8EA892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643E3287-DE70-4E05-B985-1F905A8EA892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643E3287-DE70-4E05-B985-1F905A8EA892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643E3287-DE70-4E05-B985-1F905A8EA892}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
