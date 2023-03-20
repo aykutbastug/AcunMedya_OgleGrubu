@@ -25,11 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-StructKavrami", "10-Stru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-EnumKavrami", "11-EnumKavrami\11-EnumKavrami.csproj", "{808C44DC-617D-4224-A099-396CE4E3EA2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-GenericKavrami", "12-GenericKavrami\12-GenericKavrami.csproj", "{F02DB3B9-855B-4587-BA00-30ECE816059D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-GenericKavrami", "12-GenericKavrami\12-GenericKavrami.csproj", "{F02DB3B9-855B-4587-BA00-30ECE816059D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-GenericInterface", "13-GenericInterface\13-GenericInterface.csproj", "{0C347BC8-CF36-4106-A321-B269B8989F97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-GenericInterface", "13-GenericInterface\13-GenericInterface.csproj", "{0C347BC8-CF36-4106-A321-B269B8989F97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-Ornekler", "20-Ornekler\20-Ornekler.csproj", "{643E3287-DE70-4E05-B985-1F905A8EA892}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20-Ornekler", "20-Ornekler\20-Ornekler.csproj", "{643E3287-DE70-4E05-B985-1F905A8EA892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankaKartiOrnegi", "BankaKartiOrnegi\BankaKartiOrnegi.csproj", "{7FF4321F-F8DB-47DF-A5A5-D93E74B0E1D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{643E3287-DE70-4E05-B985-1F905A8EA892}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{643E3287-DE70-4E05-B985-1F905A8EA892}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{643E3287-DE70-4E05-B985-1F905A8EA892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FF4321F-F8DB-47DF-A5A5-D93E74B0E1D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF4321F-F8DB-47DF-A5A5-D93E74B0E1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF4321F-F8DB-47DF-A5A5-D93E74B0E1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF4321F-F8DB-47DF-A5A5-D93E74B0E1D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
