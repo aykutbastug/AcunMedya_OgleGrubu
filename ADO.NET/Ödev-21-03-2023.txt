@@ -1,0 +1,116 @@
+Okul Otomasyonu
+
+1- Uygulama üzerinden Sınıf, Ders, Öğretmen, öğrenci tanımları yapılacak. 
+2- Her öğreciye bire çok ilişkili veli bilgileri tanımlanacak. (örn babası, annesi ve onların iletişim bilgileri). 
+3- Sınıflara ders tanımları yapılacak. (Örn. 1. sınıfın Türkçe, Matemetik, Resim dersleri olacak)
+4- Öğrencilere sınıf tanımlaması yapılacak. (Örn. Kayra öğrencisi 1. Sınıf diye tanım yapacağız bu sınıfa ait dersler öğrencinin dersleri olarak varsayılacak.)
+5- Uygulama üzerinden servis güzergah tanımları yapılacak. (Örn. Anadolu yakası servisi, Ümraniye x mah, y mah. .. mahallerdirinden gider gibi)
+6- Servis tanımları yapılacak. araçlar ve şöför bilgileri tutulacak. Her servise güzergah tanımı yapılacak. (örn 34ABC3443 plakalı Anadolu yakası servisidir denilecek.)
+
+
+
+Anaform olacak ve bu forma menü eklenecek. Menü içeriği ve ekranlardaki bilgiler aşağıdaki şekilde olacak; 
+
+MENÜ
+Dosya
+	Uygulama Hakkında
+	Çıkış
+	
+Öğrenci İşlemleri
+	Öğrenci Kayıtları
+	Öğrenci Devamsızlıkları
+	
+Öğretmen İşlemleri
+	Öğretmen Kayıtları
+	
+Sistem Tanımları
+	Dersler 
+	Sınıflar
+	Güzergah Tanımları
+	Servis Tanımları
+	
+==================================================
+
+- Öğretmen
+	Adi
+	Soyadı
+	DoğumTarihi
+	TcKimlikNo
+	CepTelefonu
+	Adres
+	Email
+	Branş enum(Matematik, Türkçe, Coğrafya, Fizik, Kimya, Sınıf Öğretmeni)	
+
+	
+- Öğrenci
+	OgrenciNo
+	Adi
+	Soyadi
+	DoğumTarihi
+	KayitTarihi
+	TcKimlikNo
+	CepTelefon
+	Cinsiyet enum(Kız,Erkek)
+	SınıfId
+	IkametAdresi
+	
+- Veli
+	OgrenciId
+	BabaAdi
+	BabaSoyadi
+	BabaDoğumTarihi
+	BabaTcKimlikNo
+	BabaIkametAdresi
+	BabaIsAdresi
+	BabaCepTelefonu
+	BabaIsTelefonu
+	AnneAdi
+	AnneSoyadi
+	AnneDoğumTarihi
+	AnneTcKimlikNo
+	AnneIkametAdresi
+	AnneIsAdresi
+	AnneCepTelefonu
+	AnneIsTelefonu
+
+- Sınıf
+	Sube
+	SubeKodu
+	Açıklama
+	
+- Ders
+	DersAdi
+	
+- DersSaati
+	SinifId
+	DersId
+	Gün enum(Pazartesi, salı..)
+	Saat
+	
+- OgrenciDevamsizlik
+	SinifId
+	OgrenciId
+	DersId
+	DersSaatiId
+	Tarih datetime()
+	Izinli
+	Raporlu
+	Gec
+	Devamsiz
+	
+-Güzergah
+	Açıklama
+	Semt
+	Mahalle
+	
+- Servis
+	AracPlaka
+	SoforAdiSoyadi
+	SoforTelefon
+	HostesAdiSoyadi
+	HostesTelefon
+	GuzergahId
+	
+
+		
+
