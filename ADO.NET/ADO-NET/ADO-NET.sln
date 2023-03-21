@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Connection", "01-Connection\01-Connection.csproj", "{DA95E076-08D6-43FB-88AC-71D4ED4A4062}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-Connection", "01-Connection\01-Connection.csproj", "{DA95E076-08D6-43FB-88AC-71D4ED4A4062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-SqlDataAdapterSinifi", "02-SqlDataAdapterSinifi\02-SqlDataAdapterSinifi.csproj", "{BB6B5561-4BDE-4B2B-BCBB-8AE390853587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-StoredProcedure", "03-StoredProcedure\03-StoredProcedure.csproj", "{8F235229-1F63-4974-8DD5-F5898AA672AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{DA95E076-08D6-43FB-88AC-71D4ED4A4062}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA95E076-08D6-43FB-88AC-71D4ED4A4062}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA95E076-08D6-43FB-88AC-71D4ED4A4062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB6B5561-4BDE-4B2B-BCBB-8AE390853587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6B5561-4BDE-4B2B-BCBB-8AE390853587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6B5561-4BDE-4B2B-BCBB-8AE390853587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6B5561-4BDE-4B2B-BCBB-8AE390853587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F235229-1F63-4974-8DD5-F5898AA672AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F235229-1F63-4974-8DD5-F5898AA672AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F235229-1F63-4974-8DD5-F5898AA672AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F235229-1F63-4974-8DD5-F5898AA672AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
