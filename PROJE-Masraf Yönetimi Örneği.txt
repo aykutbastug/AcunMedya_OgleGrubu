@@ -1,0 +1,28 @@
+Masraf Yönetimi Uygulama Örneği
+________________________________
+Personeller
+	Adı, Soyadı, DoğumTarihi, EMail, Şifre, Telefon, Görev (Personel, Yönetici)
+HarcamaTipleri
+	Başlık, Açıklama (Yemek, Mutfak Malzemesi, Ofis Gereçleri, Yol Ücreti...)
+Harcamalar
+	Personel, Tarihi, FişNo, Notlar, Durumu (Onay Bekliyor, Onaylandı, Rededildi, Ödeme Yapıldı)
+Harcama Detayları
+	Harcama, HarcamaTipi, Açıklama, Tutar
+	
+
+Kullanıcı girişi yapılacak (Email şifre kontrolü yapılacak)
+
+Kullanıcı Personel ise,
+	- Kendi harcamalarının listesini görecek. Onay bekliyor durumunda ise silme yada güncelleme yapabilecek değilse yapamayacak.
+	- Yeni harcama kaydı yapabilecek
+	- Bir liste ekranında Onay Bekleyen, Ödeme Bekleyen, Ödeme Aldığı, Rededildi harcama listelerine ayrı ayrı erişebilecek.
+	- Dashboard ekranında TOPLAM Onay Bekleyen, Ödeme Bekleyen, Alınan Ödeme verilerini görecek.
+
+Kullanıcı Yönetici ise,
+	- Kendi harcamalarının listesini görecek. Onay bekliyor durumunda ise silme yada güncelleme yapabilecek değilse yapamayacak.
+	- Yeni harcama kaydı yapabilecek
+	- Tüm personellere ait Onay Bekleyen Harcama listesini görecek ve onay verebilecek.
+	- Bir liste ekranında tüm personele ait Onay Bekleyen, Ödeme Bekleyen, Ödeme Aldığı harcama listelerine ayrı ayrı erişebilecek.
+	- Dashboard ekranında TOPLAM Onay Bekleyen, Ödeme Bekleyen, Alınan Ödeme verilerini görecek.
+
+
