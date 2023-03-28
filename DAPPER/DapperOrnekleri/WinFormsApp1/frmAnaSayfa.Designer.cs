@@ -34,15 +34,15 @@
             toolStripStatusLabel3 = new ToolStripStatusLabel();
             lblEmail = new ToolStripStatusLabel();
             menuStrip1 = new MenuStrip();
-            personellerToolStripMenuItem = new ToolStripMenuItem();
-            harcamalarToolStripMenuItem = new ToolStripMenuItem();
+            menuYoneticiPersonel = new ToolStripMenuItem();
+            menuYoneticiHarcama = new ToolStripMenuItem();
             onayBekleyenlerToolStripMenuItem = new ToolStripMenuItem();
             toolStripMenuItem2 = new ToolStripMenuItem();
-            harcamaPersonelToolStripMenuItem = new ToolStripMenuItem();
+            menuPersonelHarcama = new ToolStripMenuItem();
             onayBekleyenlerToolStripMenuItem1 = new ToolStripMenuItem();
             toolStripMenuItem3 = new ToolStripMenuItem();
             harcamaEkleToolStripMenuItem = new ToolStripMenuItem();
-            bilgielrimToolStripMenuItem = new ToolStripMenuItem();
+            menuBilgilerim = new ToolStripMenuItem();
             statusStrip1.SuspendLayout();
             menuStrip1.SuspendLayout();
             SuspendLayout();
@@ -84,25 +84,26 @@
             // menuStrip1
             // 
             menuStrip1.ImageScalingSize = new Size(28, 28);
-            menuStrip1.Items.AddRange(new ToolStripItem[] { personellerToolStripMenuItem, harcamalarToolStripMenuItem, harcamaPersonelToolStripMenuItem, bilgielrimToolStripMenuItem });
+            menuStrip1.Items.AddRange(new ToolStripItem[] { menuYoneticiPersonel, menuYoneticiHarcama, menuPersonelHarcama, menuBilgilerim });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
             menuStrip1.Size = new Size(1738, 38);
             menuStrip1.TabIndex = 3;
             menuStrip1.Text = "menuStrip1";
             // 
-            // personellerToolStripMenuItem
+            // menuYoneticiPersonel
             // 
-            personellerToolStripMenuItem.Name = "personellerToolStripMenuItem";
-            personellerToolStripMenuItem.Size = new Size(132, 34);
-            personellerToolStripMenuItem.Text = "Personeller";
+            menuYoneticiPersonel.Name = "menuYoneticiPersonel";
+            menuYoneticiPersonel.Size = new Size(132, 34);
+            menuYoneticiPersonel.Text = "Personeller";
+            menuYoneticiPersonel.Click += menuYoneticiPersonel_Click;
             // 
-            // harcamalarToolStripMenuItem
+            // menuYoneticiHarcama
             // 
-            harcamalarToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { onayBekleyenlerToolStripMenuItem, toolStripMenuItem2 });
-            harcamalarToolStripMenuItem.Name = "harcamalarToolStripMenuItem";
-            harcamalarToolStripMenuItem.Size = new Size(137, 34);
-            harcamalarToolStripMenuItem.Text = "Harcamalar";
+            menuYoneticiHarcama.DropDownItems.AddRange(new ToolStripItem[] { onayBekleyenlerToolStripMenuItem, toolStripMenuItem2 });
+            menuYoneticiHarcama.Name = "menuYoneticiHarcama";
+            menuYoneticiHarcama.Size = new Size(137, 34);
+            menuYoneticiHarcama.Text = "Harcamalar";
             // 
             // onayBekleyenlerToolStripMenuItem
             // 
@@ -116,12 +117,12 @@
             toolStripMenuItem2.Size = new Size(291, 40);
             toolStripMenuItem2.Text = "...";
             // 
-            // harcamaPersonelToolStripMenuItem
+            // menuPersonelHarcama
             // 
-            harcamaPersonelToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { onayBekleyenlerToolStripMenuItem1, toolStripMenuItem3, harcamaEkleToolStripMenuItem });
-            harcamaPersonelToolStripMenuItem.Name = "harcamaPersonelToolStripMenuItem";
-            harcamaPersonelToolStripMenuItem.Size = new Size(198, 34);
-            harcamaPersonelToolStripMenuItem.Text = "Harcama Personel";
+            menuPersonelHarcama.DropDownItems.AddRange(new ToolStripItem[] { onayBekleyenlerToolStripMenuItem1, toolStripMenuItem3, harcamaEkleToolStripMenuItem });
+            menuPersonelHarcama.Name = "menuPersonelHarcama";
+            menuPersonelHarcama.Size = new Size(198, 34);
+            menuPersonelHarcama.Text = "Harcama Personel";
             // 
             // onayBekleyenlerToolStripMenuItem1
             // 
@@ -141,11 +142,11 @@
             harcamaEkleToolStripMenuItem.Size = new Size(291, 40);
             harcamaEkleToolStripMenuItem.Text = "Harcama Ekle";
             // 
-            // bilgielrimToolStripMenuItem
+            // menuBilgilerim
             // 
-            bilgielrimToolStripMenuItem.Name = "bilgielrimToolStripMenuItem";
-            bilgielrimToolStripMenuItem.Size = new Size(116, 34);
-            bilgielrimToolStripMenuItem.Text = "Bilgielrim";
+            menuBilgilerim.Name = "menuBilgilerim";
+            menuBilgilerim.Size = new Size(116, 34);
+            menuBilgilerim.Text = "Bilgilerim";
             // 
             // frmAnaSayfa
             // 
@@ -176,14 +177,14 @@
         private ToolStripStatusLabel toolStripStatusLabel3;
         private ToolStripStatusLabel lblEmail;
         private MenuStrip menuStrip1;
-        private ToolStripMenuItem personellerToolStripMenuItem;
-        private ToolStripMenuItem harcamalarToolStripMenuItem;
+        private ToolStripMenuItem menuYoneticiPersonel;
+        private ToolStripMenuItem menuYoneticiHarcama;
         private ToolStripMenuItem onayBekleyenlerToolStripMenuItem;
         private ToolStripMenuItem toolStripMenuItem2;
-        private ToolStripMenuItem harcamaPersonelToolStripMenuItem;
+        private ToolStripMenuItem menuPersonelHarcama;
         private ToolStripMenuItem onayBekleyenlerToolStripMenuItem1;
         private ToolStripMenuItem toolStripMenuItem3;
         private ToolStripMenuItem harcamaEkleToolStripMenuItem;
-        private ToolStripMenuItem bilgielrimToolStripMenuItem;
+        private ToolStripMenuItem menuBilgilerim;
     }
 }

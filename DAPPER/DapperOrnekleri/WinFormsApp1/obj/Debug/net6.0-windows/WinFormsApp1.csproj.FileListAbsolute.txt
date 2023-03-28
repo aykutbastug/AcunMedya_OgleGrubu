@@ -27,3 +27,4 @@ C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\DAPPER\DapperOrnekleri\WinFormsApp1\bi
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\DAPPER\DapperOrnekleri\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\DAPPER\DapperOrnekleri\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmAnaSayfa.resources
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\DAPPER\DapperOrnekleri\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmKullaniciGirisi.resources
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\DAPPER\DapperOrnekleri\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmPersoneller.resources
