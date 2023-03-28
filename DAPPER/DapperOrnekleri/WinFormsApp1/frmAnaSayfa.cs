@@ -19,7 +19,8 @@ namespace WinFormsApp1
 
         private void frmAnaSayfa_Load(object sender, EventArgs e)
         {
-
+            lblAdiSoyadi.Text = UygulamaAyarlari.GirisYapanPersonel.Adi + " " + UygulamaAyarlari.GirisYapanPersonel.Soyadi;
+            lblEmail.Text = UygulamaAyarlari.GirisYapanPersonel.EMail;
         }
     }
 }

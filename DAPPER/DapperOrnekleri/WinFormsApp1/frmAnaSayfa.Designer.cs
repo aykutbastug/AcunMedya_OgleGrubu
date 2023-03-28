@@ -30,9 +30,9 @@
         {
             statusStrip1 = new StatusStrip();
             toolStripStatusLabel1 = new ToolStripStatusLabel();
-            toolStripStatusLabel2 = new ToolStripStatusLabel();
+            lblAdiSoyadi = new ToolStripStatusLabel();
             toolStripStatusLabel3 = new ToolStripStatusLabel();
-            toolStripStatusLabel4 = new ToolStripStatusLabel();
+            lblEmail = new ToolStripStatusLabel();
             menuStrip1 = new MenuStrip();
             personellerToolStripMenuItem = new ToolStripMenuItem();
             harcamalarToolStripMenuItem = new ToolStripMenuItem();
@@ -50,7 +50,7 @@
             // statusStrip1
             // 
             statusStrip1.ImageScalingSize = new Size(28, 28);
-            statusStrip1.Items.AddRange(new ToolStripItem[] { toolStripStatusLabel1, toolStripStatusLabel2, toolStripStatusLabel3, toolStripStatusLabel4 });
+            statusStrip1.Items.AddRange(new ToolStripItem[] { toolStripStatusLabel1, lblAdiSoyadi, toolStripStatusLabel3, lblEmail });
             statusStrip1.Location = new Point(0, 610);
             statusStrip1.Name = "statusStrip1";
             statusStrip1.Size = new Size(1738, 39);
@@ -63,11 +63,11 @@
             toolStripStatusLabel1.Size = new Size(174, 30);
             toolStripStatusLabel1.Text = "Kullanıcı Bilgileri :";
             // 
-            // toolStripStatusLabel2
+            // lblAdiSoyadi
             // 
-            toolStripStatusLabel2.Name = "toolStripStatusLabel2";
-            toolStripStatusLabel2.Size = new Size(135, 30);
-            toolStripStatusLabel2.Text = "Aykut Baştuğ";
+            lblAdiSoyadi.Name = "lblAdiSoyadi";
+            lblAdiSoyadi.Size = new Size(135, 30);
+            lblAdiSoyadi.Text = "Aykut Baştuğ";
             // 
             // toolStripStatusLabel3
             // 
@@ -75,11 +75,11 @@
             toolStripStatusLabel3.Size = new Size(18, 30);
             toolStripStatusLabel3.Text = "|";
             // 
-            // toolStripStatusLabel4
+            // lblEmail
             // 
-            toolStripStatusLabel4.Name = "toolStripStatusLabel4";
-            toolStripStatusLabel4.Size = new Size(274, 30);
-            toolStripStatusLabel4.Text = "aykut.bastug@codeove.com";
+            lblEmail.Name = "lblEmail";
+            lblEmail.Size = new Size(274, 30);
+            lblEmail.Text = "aykut.bastug@codeove.com";
             // 
             // menuStrip1
             // 
@@ -107,13 +107,13 @@
             // onayBekleyenlerToolStripMenuItem
             // 
             onayBekleyenlerToolStripMenuItem.Name = "onayBekleyenlerToolStripMenuItem";
-            onayBekleyenlerToolStripMenuItem.Size = new Size(315, 40);
+            onayBekleyenlerToolStripMenuItem.Size = new Size(291, 40);
             onayBekleyenlerToolStripMenuItem.Text = "Onay Bekleyenler";
             // 
             // toolStripMenuItem2
             // 
             toolStripMenuItem2.Name = "toolStripMenuItem2";
-            toolStripMenuItem2.Size = new Size(315, 40);
+            toolStripMenuItem2.Size = new Size(291, 40);
             toolStripMenuItem2.Text = "...";
             // 
             // harcamaPersonelToolStripMenuItem
@@ -126,19 +126,19 @@
             // onayBekleyenlerToolStripMenuItem1
             // 
             onayBekleyenlerToolStripMenuItem1.Name = "onayBekleyenlerToolStripMenuItem1";
-            onayBekleyenlerToolStripMenuItem1.Size = new Size(315, 40);
+            onayBekleyenlerToolStripMenuItem1.Size = new Size(291, 40);
             onayBekleyenlerToolStripMenuItem1.Text = "Onay Bekleyenler";
             // 
             // toolStripMenuItem3
             // 
             toolStripMenuItem3.Name = "toolStripMenuItem3";
-            toolStripMenuItem3.Size = new Size(315, 40);
+            toolStripMenuItem3.Size = new Size(291, 40);
             toolStripMenuItem3.Text = "...";
             // 
             // harcamaEkleToolStripMenuItem
             // 
             harcamaEkleToolStripMenuItem.Name = "harcamaEkleToolStripMenuItem";
-            harcamaEkleToolStripMenuItem.Size = new Size(315, 40);
+            harcamaEkleToolStripMenuItem.Size = new Size(291, 40);
             harcamaEkleToolStripMenuItem.Text = "Harcama Ekle";
             // 
             // bilgielrimToolStripMenuItem
@@ -172,9 +172,9 @@
 
         private StatusStrip statusStrip1;
         private ToolStripStatusLabel toolStripStatusLabel1;
-        private ToolStripStatusLabel toolStripStatusLabel2;
+        private ToolStripStatusLabel lblAdiSoyadi;
         private ToolStripStatusLabel toolStripStatusLabel3;
-        private ToolStripStatusLabel toolStripStatusLabel4;
+        private ToolStripStatusLabel lblEmail;
         private MenuStrip menuStrip1;
         private ToolStripMenuItem personellerToolStripMenuItem;
         private ToolStripMenuItem harcamalarToolStripMenuItem;

@@ -26,7 +26,7 @@ namespace WinFormsApp1
             dynamicParameters.Add("Phone", txtTelefon.Text);
 
             //MySqlConnection.MyConnection.Execute("sp_CustomerInsert", param: new { CustomerId = txtMusteriNo.Text, CompanyName = txtMusteriAdi.Text, Phone = txtTelefon.Text }, commandType: CommandType.StoredProcedure);
-            MySqlConnection.MyConnection.Execute("sp_CustomerInsert", param: dynamicParameters, commandType: CommandType.StoredProcedure);
+            UygulamaAyarlari.MyConnection.Execute("sp_CustomerInsert", param: dynamicParameters, commandType: CommandType.StoredProcedure);
             this.Close();
         }
     }

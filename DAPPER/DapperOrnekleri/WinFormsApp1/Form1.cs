@@ -1,5 +1,7 @@
-using Dapper;
+﻿using Dapper;
+using System;
 using System.Data.SqlClient;
+using System.Security.Policy;
 
 namespace WinFormsApp1
 {
@@ -12,6 +14,7 @@ namespace WinFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
+
             using (SqlConnection sqlConnection = new SqlConnection("server=AYKUTBASTUG-ZEN; database=Northwind;Trusted_Connection=true;"))
             {
                 //List<dynamic> musteriler = sqlConnection.Query<dynamic>("select * from dbo.Customers").ToList();
@@ -36,7 +39,7 @@ namespace WinFormsApp1
 
         private void MusterileriListele()
         {
-            List<Customer> musteriler = MySqlConnection.MyConnection.Query<Customer>("select * from dbo.Customers where CompanyName like '%'+@param1+'%'", new { param1 = textBox1.Text }).ToList();
+            List<Customer> musteriler = UygulamaAyarlari.MyConnection.Query<Customer>("select * from dbo.Customers where CompanyName like '%'+@param1+'%'", new { param1 = textBox1.Text }).ToList();
             dataGridView1.DataSource = musteriler;
         }
 
