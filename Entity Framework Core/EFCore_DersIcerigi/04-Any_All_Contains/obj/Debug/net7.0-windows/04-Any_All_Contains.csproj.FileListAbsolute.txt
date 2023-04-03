@@ -1,0 +1,17 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\04-Any_All_Contains\bin\Debug\net7.0-windows\04-Any_All_Contains.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\04-Any_All_Contains\bin\Debug\net7.0-windows\04-Any_All_Contains.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\04-Any_All_Contains\bin\Debug\net7.0-windows\04-Any_All_Contains.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\04-Any_All_Contains\bin\Debug\net7.0-windows\04-Any_All_Contains.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\04-Any_All_Contains\bin\Debug\net7.0-windows\04-Any_All_Contains.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\04-Any_All_Contains\obj\Debug\net7.0-windows\04-Any_All_Contains.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\04-Any_All_Contains\obj\Debug\net7.0-windows\_04_Any_All_Contains.Form1.resources
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\04-Any_All_Contains\obj\Debug\net7.0-windows\04-Any_All_Contains.csproj.GenerateResource.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\04-Any_All_Contains\obj\Debug\net7.0-windows\04-Any_All_Contains.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\04-Any_All_Contains\obj\Debug\net7.0-windows\04-Any_All_Contains.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\04-Any_All_Contains\obj\Debug\net7.0-windows\04-Any_All_Contains.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\04-Any_All_Contains\obj\Debug\net7.0-windows\04-Any_All_Contains.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\04-Any_All_Contains\obj\Debug\net7.0-windows\04-Any_All_Contains.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\04-Any_All_Contains\obj\Debug\net7.0-windows\refint\04-Any_All_Contains.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\04-Any_All_Contains\obj\Debug\net7.0-windows\04-Any_All_Contains.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\04-Any_All_Contains\obj\Debug\net7.0-windows\04-Any_All_Contains.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\04-Any_All_Contains\obj\Debug\net7.0-windows\ref\04-Any_All_Contains.dll

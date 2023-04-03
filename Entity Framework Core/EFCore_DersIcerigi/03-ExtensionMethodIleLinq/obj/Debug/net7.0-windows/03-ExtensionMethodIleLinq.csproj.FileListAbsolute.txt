@@ -1,0 +1,17 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\03-ExtensionMethodIleLinq\bin\Debug\net7.0-windows\03-ExtensionMethodIleLinq.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\03-ExtensionMethodIleLinq\bin\Debug\net7.0-windows\03-ExtensionMethodIleLinq.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\03-ExtensionMethodIleLinq\bin\Debug\net7.0-windows\03-ExtensionMethodIleLinq.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\03-ExtensionMethodIleLinq\bin\Debug\net7.0-windows\03-ExtensionMethodIleLinq.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\03-ExtensionMethodIleLinq\bin\Debug\net7.0-windows\03-ExtensionMethodIleLinq.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\03-ExtensionMethodIleLinq\obj\Debug\net7.0-windows\03-ExtensionMethodIleLinq.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\03-ExtensionMethodIleLinq\obj\Debug\net7.0-windows\_03_ExtensionMethodIleLinq.Form1.resources
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\03-ExtensionMethodIleLinq\obj\Debug\net7.0-windows\03-ExtensionMethodIleLinq.csproj.GenerateResource.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\03-ExtensionMethodIleLinq\obj\Debug\net7.0-windows\03-ExtensionMethodIleLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\03-ExtensionMethodIleLinq\obj\Debug\net7.0-windows\03-ExtensionMethodIleLinq.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\03-ExtensionMethodIleLinq\obj\Debug\net7.0-windows\03-ExtensionMethodIleLinq.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\03-ExtensionMethodIleLinq\obj\Debug\net7.0-windows\03-ExtensionMethodIleLinq.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\03-ExtensionMethodIleLinq\obj\Debug\net7.0-windows\03-ExtensionMethodIleLinq.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\03-ExtensionMethodIleLinq\obj\Debug\net7.0-windows\refint\03-ExtensionMethodIleLinq.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\03-ExtensionMethodIleLinq\obj\Debug\net7.0-windows\03-ExtensionMethodIleLinq.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\03-ExtensionMethodIleLinq\obj\Debug\net7.0-windows\03-ExtensionMethodIleLinq.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\03-ExtensionMethodIleLinq\obj\Debug\net7.0-windows\ref\03-ExtensionMethodIleLinq.dll

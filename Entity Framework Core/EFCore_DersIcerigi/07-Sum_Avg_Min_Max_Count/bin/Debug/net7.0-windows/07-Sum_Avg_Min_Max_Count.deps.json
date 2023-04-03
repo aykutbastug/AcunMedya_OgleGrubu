@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "07-Sum_Avg_Min_Max_Count/1.0.0": {
+        "runtime": {
+          "07-Sum_Avg_Min_Max_Count.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07-Sum_Avg_Min_Max_Count/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
