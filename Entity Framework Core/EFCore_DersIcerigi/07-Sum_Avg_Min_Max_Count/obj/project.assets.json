@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\07-Sum_Avg_Min_Max_Count\\07-Sum_Avg_Min_Max_Count.csproj",
+      "projectUniqueName": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\07-Sum_Avg_Min_Max_Count\\07-Sum_Avg_Min_Max_Count.csproj",
       "projectName": "07-Sum_Avg_Min_Max_Count",
-      "projectPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\07-Sum_Avg_Min_Max_Count\\07-Sum_Avg_Min_Max_Count.csproj",
+      "projectPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\07-Sum_Avg_Min_Max_Count\\07-Sum_Avg_Min_Max_Count.csproj",
       "packagesPath": "C:\\Users\\aykut\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\07-Sum_Avg_Min_Max_Count\\obj\\",
+      "outputPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\07-Sum_Avg_Min_Max_Count\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

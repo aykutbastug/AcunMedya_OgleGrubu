@@ -15,3 +15,20 @@ C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\07-Sum_Avg_
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\obj\Debug\net7.0-windows\07-Sum_Avg_Min_Max_Count.pdb
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\obj\Debug\net7.0-windows\07-Sum_Avg_Min_Max_Count.genruntimeconfig.cache
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\obj\Debug\net7.0-windows\ref\07-Sum_Avg_Min_Max_Count.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\bin\Debug\net7.0-windows\07-Sum_Avg_Min_Max_Count.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\bin\Debug\net7.0-windows\07-Sum_Avg_Min_Max_Count.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\bin\Debug\net7.0-windows\07-Sum_Avg_Min_Max_Count.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\bin\Debug\net7.0-windows\07-Sum_Avg_Min_Max_Count.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\bin\Debug\net7.0-windows\07-Sum_Avg_Min_Max_Count.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\obj\Debug\net7.0-windows\07-Sum_Avg_Min_Max_Count.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\obj\Debug\net7.0-windows\_07_Sum_Avg_Min_Max_Count.Form1.resources
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\obj\Debug\net7.0-windows\07-Sum_Avg_Min_Max_Count.csproj.GenerateResource.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\obj\Debug\net7.0-windows\07-Sum_Avg_Min_Max_Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\obj\Debug\net7.0-windows\07-Sum_Avg_Min_Max_Count.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\obj\Debug\net7.0-windows\07-Sum_Avg_Min_Max_Count.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\obj\Debug\net7.0-windows\07-Sum_Avg_Min_Max_Count.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\obj\Debug\net7.0-windows\07-Sum_Avg_Min_Max_Count.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\obj\Debug\net7.0-windows\refint\07-Sum_Avg_Min_Max_Count.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\obj\Debug\net7.0-windows\07-Sum_Avg_Min_Max_Count.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\obj\Debug\net7.0-windows\07-Sum_Avg_Min_Max_Count.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\07-Sum_Avg_Min_Max_Count\obj\Debug\net7.0-windows\ref\07-Sum_Avg_Min_Max_Count.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Al0qgmrocJ+Z3sODL965obZT8HEj3ESfa3m3eWunmtImDTnGY/cs2SZZPqGraQis30dazE2Z7p5xtiCMJAq5DQ==",
+  "dgSpecHash": "pif4e2m3KWMDaEdc2gyutPVRDJWQfEmu41SffEoABmPDK4VTKMwScdUUFk4bdZhBjqFU1bogVSOSFfchL7tTNA==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\03-ExtensionMethodIleLinq\\03-ExtensionMethodIleLinq.csproj",
+  "projectFilePath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\03-ExtensionMethodIleLinq\\03-ExtensionMethodIleLinq.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

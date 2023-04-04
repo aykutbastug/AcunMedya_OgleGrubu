@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\05-First_Single_Last\\05-First_Single_Last.csproj": {}
+    "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\05-First_Single_Last\\05-First_Single_Last.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\05-First_Single_Last\\05-First_Single_Last.csproj": {
+    "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\05-First_Single_Last\\05-First_Single_Last.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\05-First_Single_Last\\05-First_Single_Last.csproj",
+        "projectUniqueName": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\05-First_Single_Last\\05-First_Single_Last.csproj",
         "projectName": "05-First_Single_Last",
-        "projectPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\05-First_Single_Last\\05-First_Single_Last.csproj",
+        "projectPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\05-First_Single_Last\\05-First_Single_Last.csproj",
         "packagesPath": "C:\\Users\\aykut\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\05-First_Single_Last\\obj\\",
+        "outputPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\05-First_Single_Last\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

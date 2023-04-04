@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\02-LinqSorgulama\\02-LinqSorgulama.csproj",
+      "projectUniqueName": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\02-LinqSorgulama\\02-LinqSorgulama.csproj",
       "projectName": "02-LinqSorgulama",
-      "projectPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\02-LinqSorgulama\\02-LinqSorgulama.csproj",
+      "projectPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\02-LinqSorgulama\\02-LinqSorgulama.csproj",
       "packagesPath": "C:\\Users\\aykut\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\02-LinqSorgulama\\obj\\",
+      "outputPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\02-LinqSorgulama\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

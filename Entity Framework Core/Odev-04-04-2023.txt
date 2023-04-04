@@ -1,0 +1,6 @@
+Ödev-04.04.2023
+
+Yeni bir DBFirst ile çalılan bir proje oluşturun.
+-Products (Ürünler) modeli için CRUD ekranların yapılması.
+-CategoryId dropdown ile seçilmeli
+-SupplierId dropdown ile seçilmeli

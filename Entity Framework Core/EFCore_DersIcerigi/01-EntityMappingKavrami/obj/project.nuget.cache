@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Sj/XCk4EuoJoD9h4+nV26LmEEtAEyd/DViJXxmQ7lzXK0XjqqpQD2pYOw1xOeDOb7GtssKzbZSRQrvdK0PdaQ==",
+  "dgSpecHash": "xAZwYOWvYIO4XXimgnKu2DDieP26jd5bl4fufftOu5kx/TXIxzOhPODAJbdDq46IwgdYB0EAm6+OKlPMNS/Aiw==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\01-EntityMappingKavrami\\01-EntityMappingKavrami.csproj",
+  "projectFilePath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\01-EntityMappingKavrami\\01-EntityMappingKavrami.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aykut\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\aykut\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

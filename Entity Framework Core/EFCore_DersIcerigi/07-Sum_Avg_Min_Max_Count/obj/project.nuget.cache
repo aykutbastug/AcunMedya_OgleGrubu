@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mpw1rruqlMBA1OTC+WdFED4jS68cYvy6ypryPaz8wBx/N3kv3X67SwM8ojkMcTyrPfzUrR3grKp1V8hG9PIkGg==",
+  "dgSpecHash": "aNYOb27OgxVnMkrj/Qer9wZRYqsTkGRnfP3LJexyNMKN/evbso72M9/TOiseK+ziEUA4/dfujbUjA6OcgPOvjw==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\07-Sum_Avg_Min_Max_Count\\07-Sum_Avg_Min_Max_Count.csproj",
+  "projectFilePath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\07-Sum_Avg_Min_Max_Count\\07-Sum_Avg_Min_Max_Count.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

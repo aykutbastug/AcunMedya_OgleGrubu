@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\01-EntityMappingKavrami\\01-EntityMappingKavrami.csproj": {}
+    "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\01-EntityMappingKavrami\\01-EntityMappingKavrami.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\01-EntityMappingKavrami\\01-EntityMappingKavrami.csproj": {
+    "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\01-EntityMappingKavrami\\01-EntityMappingKavrami.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\01-EntityMappingKavrami\\01-EntityMappingKavrami.csproj",
+        "projectUniqueName": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\01-EntityMappingKavrami\\01-EntityMappingKavrami.csproj",
         "projectName": "01-EntityMappingKavrami",
-        "projectPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\01-EntityMappingKavrami\\01-EntityMappingKavrami.csproj",
+        "projectPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\01-EntityMappingKavrami\\01-EntityMappingKavrami.csproj",
         "packagesPath": "C:\\Users\\aykut\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\01-EntityMappingKavrami\\obj\\",
+        "outputPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\01-EntityMappingKavrami\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

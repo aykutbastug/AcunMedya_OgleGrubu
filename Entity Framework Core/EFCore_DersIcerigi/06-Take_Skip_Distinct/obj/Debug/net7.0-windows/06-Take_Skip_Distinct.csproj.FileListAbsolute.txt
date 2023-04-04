@@ -15,3 +15,20 @@ C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\06-Take_Ski
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\06-Take_Skip_Distinct\obj\Debug\net7.0-windows\06-Take_Skip_Distinct.pdb
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\06-Take_Skip_Distinct\obj\Debug\net7.0-windows\06-Take_Skip_Distinct.genruntimeconfig.cache
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\06-Take_Skip_Distinct\obj\Debug\net7.0-windows\ref\06-Take_Skip_Distinct.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\06-Take_Skip_Distinct\bin\Debug\net7.0-windows\06-Take_Skip_Distinct.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\06-Take_Skip_Distinct\bin\Debug\net7.0-windows\06-Take_Skip_Distinct.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\06-Take_Skip_Distinct\bin\Debug\net7.0-windows\06-Take_Skip_Distinct.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\06-Take_Skip_Distinct\bin\Debug\net7.0-windows\06-Take_Skip_Distinct.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\06-Take_Skip_Distinct\bin\Debug\net7.0-windows\06-Take_Skip_Distinct.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\06-Take_Skip_Distinct\obj\Debug\net7.0-windows\06-Take_Skip_Distinct.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\06-Take_Skip_Distinct\obj\Debug\net7.0-windows\_06_Take_Skip_Distinct.Form1.resources
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\06-Take_Skip_Distinct\obj\Debug\net7.0-windows\06-Take_Skip_Distinct.csproj.GenerateResource.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\06-Take_Skip_Distinct\obj\Debug\net7.0-windows\06-Take_Skip_Distinct.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\06-Take_Skip_Distinct\obj\Debug\net7.0-windows\06-Take_Skip_Distinct.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\06-Take_Skip_Distinct\obj\Debug\net7.0-windows\06-Take_Skip_Distinct.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\06-Take_Skip_Distinct\obj\Debug\net7.0-windows\06-Take_Skip_Distinct.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\06-Take_Skip_Distinct\obj\Debug\net7.0-windows\06-Take_Skip_Distinct.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\06-Take_Skip_Distinct\obj\Debug\net7.0-windows\refint\06-Take_Skip_Distinct.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\06-Take_Skip_Distinct\obj\Debug\net7.0-windows\06-Take_Skip_Distinct.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\06-Take_Skip_Distinct\obj\Debug\net7.0-windows\06-Take_Skip_Distinct.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\06-Take_Skip_Distinct\obj\Debug\net7.0-windows\ref\06-Take_Skip_Distinct.dll

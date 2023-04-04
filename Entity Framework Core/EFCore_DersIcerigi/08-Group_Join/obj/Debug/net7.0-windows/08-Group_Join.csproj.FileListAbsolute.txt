@@ -1,0 +1,17 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\08-Group_Join\bin\Debug\net7.0-windows\08-Group_Join.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\08-Group_Join\bin\Debug\net7.0-windows\08-Group_Join.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\08-Group_Join\bin\Debug\net7.0-windows\08-Group_Join.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\08-Group_Join\bin\Debug\net7.0-windows\08-Group_Join.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\08-Group_Join\bin\Debug\net7.0-windows\08-Group_Join.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\08-Group_Join\obj\Debug\net7.0-windows\08-Group_Join.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\08-Group_Join\obj\Debug\net7.0-windows\_08_Group_Join.Form1.resources
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\08-Group_Join\obj\Debug\net7.0-windows\08-Group_Join.csproj.GenerateResource.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\08-Group_Join\obj\Debug\net7.0-windows\08-Group_Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\08-Group_Join\obj\Debug\net7.0-windows\08-Group_Join.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\08-Group_Join\obj\Debug\net7.0-windows\08-Group_Join.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\08-Group_Join\obj\Debug\net7.0-windows\08-Group_Join.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\08-Group_Join\obj\Debug\net7.0-windows\08-Group_Join.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\08-Group_Join\obj\Debug\net7.0-windows\refint\08-Group_Join.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\08-Group_Join\obj\Debug\net7.0-windows\08-Group_Join.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\08-Group_Join\obj\Debug\net7.0-windows\08-Group_Join.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\08-Group_Join\obj\Debug\net7.0-windows\ref\08-Group_Join.dll

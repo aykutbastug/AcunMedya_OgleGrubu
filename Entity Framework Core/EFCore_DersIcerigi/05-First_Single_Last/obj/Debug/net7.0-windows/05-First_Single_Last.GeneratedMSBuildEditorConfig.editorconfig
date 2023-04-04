@@ -14,4 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _05_First_Single_Last
-build_property.ProjectDir = C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\05-First_Single_Last\
+build_property.ProjectDir = C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\05-First_Single_Last\

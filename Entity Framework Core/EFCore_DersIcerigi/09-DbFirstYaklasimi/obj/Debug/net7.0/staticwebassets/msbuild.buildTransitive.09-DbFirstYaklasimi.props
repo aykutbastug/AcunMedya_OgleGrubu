@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\09-DbFirstYaklasimi.props" />
+</Project>

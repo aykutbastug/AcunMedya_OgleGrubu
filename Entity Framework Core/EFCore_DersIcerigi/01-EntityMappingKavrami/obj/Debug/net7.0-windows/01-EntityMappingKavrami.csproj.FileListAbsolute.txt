@@ -22,3 +22,27 @@ C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\01-EntityMa
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\01-EntityMappingKavrami\obj\Debug\net7.0-windows\01-EntityMappingKavrami.pdb
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\01-EntityMappingKavrami\obj\Debug\net7.0-windows\01-EntityMappingKavrami.genruntimeconfig.cache
 C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ADO.NET\EFCore_DersIcerigi\01-EntityMappingKavrami\obj\Debug\net7.0-windows\ref\01-EntityMappingKavrami.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\bin\Debug\net7.0-windows\01-EntityMappingKavrami.exe
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\bin\Debug\net7.0-windows\01-EntityMappingKavrami.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\bin\Debug\net7.0-windows\01-EntityMappingKavrami.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\bin\Debug\net7.0-windows\01-EntityMappingKavrami.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\bin\Debug\net7.0-windows\01-EntityMappingKavrami.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\obj\Debug\net7.0-windows\01-EntityMappingKavrami.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\obj\Debug\net7.0-windows\_01_EntityMappingKavrami.Form1.resources
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\obj\Debug\net7.0-windows\01-EntityMappingKavrami.csproj.GenerateResource.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\obj\Debug\net7.0-windows\01-EntityMappingKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\obj\Debug\net7.0-windows\01-EntityMappingKavrami.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\obj\Debug\net7.0-windows\01-EntityMappingKavrami.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\obj\Debug\net7.0-windows\01-EntityMappingKavrami.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\obj\Debug\net7.0-windows\01-EntityMappingKavrami.csproj.CopyComplete
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\obj\Debug\net7.0-windows\01-EntityMappingKavrami.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\obj\Debug\net7.0-windows\refint\01-EntityMappingKavrami.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\obj\Debug\net7.0-windows\01-EntityMappingKavrami.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\obj\Debug\net7.0-windows\01-EntityMappingKavrami.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\Entity Framework Core\EFCore_DersIcerigi\01-EntityMappingKavrami\obj\Debug\net7.0-windows\ref\01-EntityMappingKavrami.dll

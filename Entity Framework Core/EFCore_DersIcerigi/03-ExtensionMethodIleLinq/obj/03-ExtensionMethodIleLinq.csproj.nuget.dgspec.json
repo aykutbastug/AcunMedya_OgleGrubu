@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\03-ExtensionMethodIleLinq\\03-ExtensionMethodIleLinq.csproj": {}
+    "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\03-ExtensionMethodIleLinq\\03-ExtensionMethodIleLinq.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\03-ExtensionMethodIleLinq\\03-ExtensionMethodIleLinq.csproj": {
+    "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\03-ExtensionMethodIleLinq\\03-ExtensionMethodIleLinq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\03-ExtensionMethodIleLinq\\03-ExtensionMethodIleLinq.csproj",
+        "projectUniqueName": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\03-ExtensionMethodIleLinq\\03-ExtensionMethodIleLinq.csproj",
         "projectName": "03-ExtensionMethodIleLinq",
-        "projectPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\03-ExtensionMethodIleLinq\\03-ExtensionMethodIleLinq.csproj",
+        "projectPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\03-ExtensionMethodIleLinq\\03-ExtensionMethodIleLinq.csproj",
         "packagesPath": "C:\\Users\\aykut\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ADO.NET\\EFCore_DersIcerigi\\03-ExtensionMethodIleLinq\\obj\\",
+        "outputPath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\Entity Framework Core\\EFCore_DersIcerigi\\03-ExtensionMethodIleLinq\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
