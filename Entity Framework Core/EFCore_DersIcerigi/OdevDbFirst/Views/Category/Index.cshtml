@@ -1,0 +1,47 @@
+﻿@model List<Category>
+
+@{
+    ViewData["Title"] = "Kategori Listesi";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Kategori Ekle</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Kaetgori Id
+            </th>
+            <th>
+                Kategori Adı
+            </th>
+            <th>
+                Açıklama
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            @*<td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>*@
+        </tr>
+}
+    </tbody>
+</table>

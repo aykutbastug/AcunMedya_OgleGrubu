@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-Take_Skip_Distinct", "06
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-Sum_Avg_Min_Max_Count", "07-Sum_Avg_Min_Max_Count\07-Sum_Avg_Min_Max_Count.csproj", "{4D5BBF98-1CA1-4CF4-AFDD-A630397B74AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-Group_Join", "08-Group_Join\08-Group_Join.csproj", "{41DBAAAE-43F7-4401-93C1-C307193782FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-Group_Join", "08-Group_Join\08-Group_Join.csproj", "{41DBAAAE-43F7-4401-93C1-C307193782FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-DbFirstYaklasimi", "09-DbFirstYaklasimi\09-DbFirstYaklasimi.csproj", "{A21C7225-CC2C-4431-82C9-62E31291098D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-DbFirstYaklasimi", "09-DbFirstYaklasimi\09-DbFirstYaklasimi.csproj", "{A21C7225-CC2C-4431-82C9-62E31291098D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdevDbFirst", "OdevDbFirst\OdevDbFirst.csproj", "{2E619C87-C37D-44D0-8616-B95D22FD5531}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{A21C7225-CC2C-4431-82C9-62E31291098D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A21C7225-CC2C-4431-82C9-62E31291098D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A21C7225-CC2C-4431-82C9-62E31291098D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E619C87-C37D-44D0-8616-B95D22FD5531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E619C87-C37D-44D0-8616-B95D22FD5531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E619C87-C37D-44D0-8616-B95D22FD5531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E619C87-C37D-44D0-8616-B95D22FD5531}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
