@@ -41,5 +41,50 @@ namespace OdevDbFirst.Controllers
             ViewBag.Suppliers = context.Suppliers.ToList();
             return View(model);
         }
+
+        public IActionResult Edit(int id)
+        {
+            Product product = context.Products.FirstOrDefault(x => x.ProductId == id);
+
+            ViewBag.Categories = context.Categories.ToList();
+            ViewBag.Suppliers = context.Suppliers.ToList();
+
+            return View(product);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(Product product)
+        {
+            if (ModelState.IsValid)
+            {
+                context.Products.Update(product);
+                context.SaveChanges();
+                return RedirectToAction("Index");   
+            }
+
+            ViewBag.Categories = context.Categories.ToList();
+            ViewBag.Suppliers = context.Suppliers.ToList();
+            return View(product);
+        }
+
+
+        public IActionResult Delete(int id)
+        {
+            Product product = context.Products
+                                        .Include(x => x.Category)
+                                        .Include(x => x.Supplier)
+                                        .FirstOrDefault(x => x.ProductId == id);
+
+            return View(product);
+        }
+
+        [HttpPost]
+        public IActionResult Delete(Product product)
+        {
+            context.Remove(product);
+            context.SaveChanges();
+
+            return RedirectToAction("Index");
+        }
     }
 }
