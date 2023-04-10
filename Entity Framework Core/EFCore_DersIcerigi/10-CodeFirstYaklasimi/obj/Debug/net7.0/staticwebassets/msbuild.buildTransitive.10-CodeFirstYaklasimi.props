@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\10-CodeFirstYaklasimi.props" />
+</Project>
