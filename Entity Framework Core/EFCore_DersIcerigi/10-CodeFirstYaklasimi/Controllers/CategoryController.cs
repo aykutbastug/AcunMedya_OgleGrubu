@@ -5,7 +5,13 @@ namespace _10_CodeFirstYaklasimi.Controllers
 {
     public class CategoryController : Controller
     {
-        CodeFirstOrnekContext context = new CodeFirstOrnekContext(); 
+        private readonly CodeFirstOrnekContext context;
+        public CategoryController(CodeFirstOrnekContext context)
+        {
+            this.context = context;
+        }
+
+        //CodeFirstOrnekContext context = new CodeFirstOrnekContext(); 
         public IActionResult Index()
         {
             var categories = context.Categories.AsEnumerable();

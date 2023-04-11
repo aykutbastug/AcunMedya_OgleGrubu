@@ -41,7 +41,7 @@ namespace _10_CodeFirstYaklasimi.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Categories", (string)null);
+                    b.ToTable("Categories");
                 });
 
             modelBuilder.Entity("_10_CodeFirstYaklasimi.Models.Product", b =>
@@ -63,11 +63,14 @@ namespace _10_CodeFirstYaklasimi.Migrations
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
 
+                    b.Property<int>("StockAmount")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("Products", (string)null);
+                    b.ToTable("Products");
                 });
 
             modelBuilder.Entity("_10_CodeFirstYaklasimi.Models.Supplier", b =>
@@ -85,9 +88,12 @@ namespace _10_CodeFirstYaklasimi.Migrations
                     b.Property<string>("Email")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Phone")
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("Id");
 
-                    b.ToTable("Suppliers", (string)null);
+                    b.ToTable("Suppliers");
                 });
 
             modelBuilder.Entity("_10_CodeFirstYaklasimi.Models.Product", b =>

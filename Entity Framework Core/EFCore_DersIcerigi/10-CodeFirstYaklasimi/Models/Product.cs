@@ -24,6 +24,8 @@ namespace _10_CodeFirstYaklasimi.Models
         [DisplayName("Fiyatı")]
         public decimal Price { get; set; }
 
+        public int StockAmount { get; set; }
+
 
         public virtual Category Category { get; set; } = new Category();
     }

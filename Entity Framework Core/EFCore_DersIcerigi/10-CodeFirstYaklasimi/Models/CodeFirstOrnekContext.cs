@@ -9,13 +9,25 @@ namespace _10_CodeFirstYaklasimi.Models
         public DbSet<Supplier> Suppliers { get; set; }
 
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+
+        public CodeFirstOrnekContext(DbContextOptions<CodeFirstOrnekContext> options) : base(options)
         {
-            if (!optionsBuilder.IsConfigured)
-            {
-                optionsBuilder.UseSqlServer("server=AYKUTBASTUG-ZEN;database=CodeFirstOrnek;Trusted_Connection=true;TrustServerCertificate=true");
-            }
+            Database.Migrate();
         }
+
+        //public CodeFirstOrnekContext()
+        //{
+        //    Database.Migrate();
+        //}
+
+
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    if (!optionsBuilder.IsConfigured)
+        //    {
+        //        optionsBuilder.UseSqlServer("server=AYKUTBASTUG-ZEN;database=CodeFirstOrnek;Trusted_Connection=true;TrustServerCertificate=true");
+        //    }
+        //}
 
     }
 }

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "05-First_Single_Last": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:62047;http://localhost:62050"
+    }
+  }
+}

@@ -1,3 +1,6 @@
+using _10_CodeFirstYaklasimi.Models;
+using Microsoft.EntityFrameworkCore;
+
 namespace _10_CodeFirstYaklasimi
 {
     public class Program
@@ -5,6 +8,10 @@ namespace _10_CodeFirstYaklasimi
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.AddDbContext<CodeFirstOrnekContext>(option =>
+            //option.UseSqlServer("server=AYKUTBASTUG-ZEN;database=CodeFirstOrnek;Trusted_Connection=true;TrustServerCertificate=true"));
+            option.UseSqlServer(builder.Configuration.GetConnectionString("MyConnectionString2")));
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();

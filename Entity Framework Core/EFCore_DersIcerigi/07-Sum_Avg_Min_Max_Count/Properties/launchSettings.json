@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "07-Sum_Avg_Min_Max_Count": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:62054;http://localhost:62055"
+    }
+  }
+}

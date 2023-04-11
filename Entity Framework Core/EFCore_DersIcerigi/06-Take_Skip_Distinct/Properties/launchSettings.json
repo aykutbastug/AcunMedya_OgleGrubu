@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "06-Take_Skip_Distinct": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:62053;http://localhost:62056"
+    }
+  }
+}
