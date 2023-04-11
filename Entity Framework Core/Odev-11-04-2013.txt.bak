@@ -28,11 +28,3 @@ Kullanıcı Yönetici ise,
 	- Dashboard ekranında TOPLAM Onay Bekleyen, Ödeme Bekleyen, Alınan Ödeme verilerini görecek.
 
 
-İşlem Sıralaması
-1-Classların oluşturulması (tablolar)
-2-Context sınıfını oluşturulması
-3-ilk migration oluşturulması
-4-migrationların otomatik update edilmesinin sağlanması
-5-Örnek view yapılarak database in oluşturuldupunun test edilmesi
-6-Database silnerek, seed metodu ile varsayalın kayıtların eklenmesi
-7-Tüm viewlerin yapılaması
