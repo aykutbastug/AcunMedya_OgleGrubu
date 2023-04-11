@@ -2,7 +2,7 @@ Masraf Yönetimi Uygulama Örneği
 ________________________________
 Personeller
 	Adı, Soyadı, DoğumTarihi, EMail, Şifre, Telefon, Görev (Personel, Yönetici)
-HarcamaTipleri (Otomatik sisteme Yemek, Ofis Gereçleri vb gibi bazı tipler otomatik uygulama ayağa kalktığında eklenmeli)
+HarcamaTipleri
 	Başlık, Açıklama (Yemek, Mutfak Malzemesi, Ofis Gereçleri, Yol Ücreti...)
 Harcamalar
 	Personel, Tarihi, FişNo, Notlar, Durumu (Onay Bekliyor, Onaylandı, Rededildi, Ödeme Yapıldı)
@@ -11,9 +11,7 @@ Harcama Detayları
 	
 
 Kullanıcı girişi yapılacak (Email şifre kontrolü yapılacak)
-(ilk kullanıcı adı ve şifresi appconfig.json dosyasında bulunsun ve uygulama ayağa kalktığında bu kullanıcı sisteme insert edilsin)
 
-(Keyfe keder)
 Kullanıcı Personel ise,
 	- Kendi harcamalarının listesini görecek. Onay bekliyor durumunda ise silme yada güncelleme yapabilecek değilse yapamayacak.
 	- Yeni harcama kaydı yapabilecek
