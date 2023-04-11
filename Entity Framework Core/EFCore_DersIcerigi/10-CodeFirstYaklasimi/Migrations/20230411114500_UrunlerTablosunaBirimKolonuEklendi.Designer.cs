@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using _10_CodeFirstYaklasimi.Models;
 
@@ -10,9 +11,11 @@ using _10_CodeFirstYaklasimi.Models;
 namespace _10_CodeFirstYaklasimi.Migrations
 {
     [DbContext(typeof(CodeFirstOrnekContext))]
-    partial class CodeFirstOrnekContextModelSnapshot : ModelSnapshot
+    [Migration("20230411114500_UrunlerTablosunaBirimKolonuEklendi")]
+    partial class UrunlerTablosunaBirimKolonuEklendi
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

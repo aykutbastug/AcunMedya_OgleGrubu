@@ -12,7 +12,7 @@ namespace _10_CodeFirstYaklasimi.Models
 
         public CodeFirstOrnekContext(DbContextOptions<CodeFirstOrnekContext> options) : base(options)
         {
-            Database.Migrate();
+            //Database.Migrate();
         }
 
         //public CodeFirstOrnekContext()

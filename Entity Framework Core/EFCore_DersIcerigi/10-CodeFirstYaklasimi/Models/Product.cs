@@ -26,6 +26,8 @@ namespace _10_CodeFirstYaklasimi.Models
 
         public int StockAmount { get; set; }
 
+        public string Unit { get; set; }
+
 
         public virtual Category Category { get; set; } = new Category();
     }

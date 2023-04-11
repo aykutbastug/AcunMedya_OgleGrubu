@@ -11,12 +11,13 @@ namespace _10_CodeFirstYaklasimi
 
             builder.Services.AddDbContext<CodeFirstOrnekContext>(option =>
             //option.UseSqlServer("server=AYKUTBASTUG-ZEN;database=CodeFirstOrnek;Trusted_Connection=true;TrustServerCertificate=true"));
-            option.UseSqlServer(builder.Configuration.GetConnectionString("MyConnectionString2")));
+            option.UseSqlServer(builder.Configuration.GetConnectionString("MyConnectionString")));
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
+            DataSeed.Seed(app);
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
