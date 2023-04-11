@@ -22,6 +22,9 @@ namespace _10_CodeFirstYaklasimi.Models
                 }
                 context.SaveChanges();
             }
+
+            var configurations = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build();
+            var email = configurations["UygulamaAyarlari:Email"];
         }
     }
 }
