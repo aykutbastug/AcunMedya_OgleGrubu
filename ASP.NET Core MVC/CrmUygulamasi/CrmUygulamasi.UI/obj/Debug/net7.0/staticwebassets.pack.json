@@ -9,6 +9,286 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\dist\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar4.png"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\dist\\img\\default-150x150.png"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\dist\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\dist\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard3.js"
+    },
+    {
       "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
