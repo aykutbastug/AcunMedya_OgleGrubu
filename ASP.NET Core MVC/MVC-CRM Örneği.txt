@@ -1,0 +1,105 @@
+CRM
+______________
+Müşteriler
+	Firma adı
+	Email
+	Telefon
+	Unvan
+	Vergi Dairesi
+	Vergi No
+	Durumu: Aktif Müşteri, Pasif Müşteri
+	Yetkililer
+		Adı Soyadı
+		Email
+		Telefon
+		Unvan
+		
+Tedarikçiler
+	Firma adı
+	Email
+	Telefon
+	Unvan
+	Vergi Dairesi
+	Vergi No
+	Yetkililer
+		Adı Soyadı
+		Email
+		Telefon
+		Unvan
+		
+Ürünler
+	ÜrünAdı
+	BirimFiyatı
+	KdvOranı
+	Resim
+	StokMiktari
+	
+Personeller
+	İşeGiriştarihi
+	AdıSoyadı
+	KimlikNo
+	Maaş
+	Email
+	Telefon
+	Durumu (Aktif, Pasif)
+	Yetki (Admin, Kullanıcı)
+	Şifre
+		
+Satışlar
+	Müşteri
+	Tarih
+	FaturaNo
+	VadeTarihi	
+	SatışDetayları
+		Ürün
+		Açıklama
+		Miktar
+		BirimFiyat
+		İndirimOranı
+		İndirimTutarı
+		KdvOran
+		KdvTutarı
+		Tutar
+		Durumu (Teklif Aşamasında, Ödeme Bekleniyor, Ödeme Alındı)
+	Ödeme Listesi
+		VadeTarihi
+		ÖdemeTarihi
+		ÖdemeTutarı
+		Durumu (Ödendi, ÖdemeBekleniyor)
+	
+Harcamalar
+	Başlık
+	Tedarikçi
+	Personel
+	Tarih
+	Açıklama
+	Tutar
+	Durumu (Ödendi, Beklemede)
+	
+Maaş Ödemeleri
+	Personel
+	MaaşTutarı
+	VadeTarihi
+	ÖdemeTarihi
+	Durumu (Ödendi, Ödenecek)
+	
+Toplantılar (kiminle ne zaman toplantı yapıldı)
+	Müşteri
+	TarihSaat
+	Konu
+	İçerik
+	Katılımcılar(string liste)
+	Notlar
+
+Kullanıcılar
+	AdıSoyadı
+	Email
+	Şifre
+	Resim
+	Durumu (Aktif,Pasif)
+	
+KullanıcıLogları
+	İşlemTipi (Başaralı Girişi, Hatalı Giriş Denemesi, Güvenli Çıkış)
+	İşlemTarihi
+	Email
+	KullanıcıId (Sadece başarılı olma ve çıkış işlemlerinde dolmalı)
