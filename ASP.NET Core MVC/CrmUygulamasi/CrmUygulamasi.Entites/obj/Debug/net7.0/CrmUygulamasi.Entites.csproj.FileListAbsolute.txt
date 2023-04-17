@@ -1,0 +1,12 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.Entites\bin\Debug\net7.0\CrmUygulamasi.Entites.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.Entites\bin\Debug\net7.0\CrmUygulamasi.Entites.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.Entites\bin\Debug\net7.0\CrmUygulamasi.Entites.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.Entites\obj\Debug\net7.0\CrmUygulamasi.Entites.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.Entites\obj\Debug\net7.0\CrmUygulamasi.Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.Entites\obj\Debug\net7.0\CrmUygulamasi.Entites.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.Entites\obj\Debug\net7.0\CrmUygulamasi.Entites.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.Entites\obj\Debug\net7.0\CrmUygulamasi.Entites.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.Entites\obj\Debug\net7.0\CrmUygulamasi.Entites.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.Entites\obj\Debug\net7.0\refint\CrmUygulamasi.Entites.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.Entites\obj\Debug\net7.0\CrmUygulamasi.Entites.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.Entites\obj\Debug\net7.0\ref\CrmUygulamasi.Entites.dll

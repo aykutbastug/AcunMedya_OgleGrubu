@@ -1,0 +1,17 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.DAL\bin\Debug\net7.0\CrmUygulamasi.DAL.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.DAL\bin\Debug\net7.0\CrmUygulamasi.DAL.runtimeconfig.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.DAL\bin\Debug\net7.0\CrmUygulamasi.DAL.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.DAL\bin\Debug\net7.0\CrmUygulamasi.DAL.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.DAL\bin\Debug\net7.0\CrmUygulamasi.Entites.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.DAL\bin\Debug\net7.0\CrmUygulamasi.Entites.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.DAL\obj\Debug\net7.0\CrmUygulamasi.DAL.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.DAL\obj\Debug\net7.0\CrmUygulamasi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.DAL\obj\Debug\net7.0\CrmUygulamasi.DAL.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.DAL\obj\Debug\net7.0\CrmUygulamasi.DAL.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.DAL\obj\Debug\net7.0\CrmUygulamasi.DAL.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.DAL\obj\Debug\net7.0\CrmUygulamasi.DAL.csproj.CopyComplete
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.DAL\obj\Debug\net7.0\CrmUygulamasi.DAL.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.DAL\obj\Debug\net7.0\refint\CrmUygulamasi.DAL.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.DAL\obj\Debug\net7.0\CrmUygulamasi.DAL.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.DAL\obj\Debug\net7.0\CrmUygulamasi.DAL.genruntimeconfig.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.DAL\obj\Debug\net7.0\ref\CrmUygulamasi.DAL.dll

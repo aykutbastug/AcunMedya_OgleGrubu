@@ -1,0 +1,17 @@
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.BLL\bin\Debug\net7.0\CrmUygulamasi.BLL.deps.json
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.BLL\bin\Debug\net7.0\CrmUygulamasi.BLL.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.BLL\bin\Debug\net7.0\CrmUygulamasi.BLL.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.BLL\bin\Debug\net7.0\CrmUygulamasi.DAL.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.BLL\bin\Debug\net7.0\CrmUygulamasi.Entites.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.BLL\bin\Debug\net7.0\CrmUygulamasi.DAL.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.BLL\bin\Debug\net7.0\CrmUygulamasi.Entites.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.BLL\obj\Debug\net7.0\CrmUygulamasi.BLL.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.BLL\obj\Debug\net7.0\CrmUygulamasi.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.BLL\obj\Debug\net7.0\CrmUygulamasi.BLL.AssemblyInfoInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.BLL\obj\Debug\net7.0\CrmUygulamasi.BLL.AssemblyInfo.cs
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.BLL\obj\Debug\net7.0\CrmUygulamasi.BLL.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.BLL\obj\Debug\net7.0\CrmUygulamasi.BLL.csproj.CopyComplete
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.BLL\obj\Debug\net7.0\CrmUygulamasi.BLL.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.BLL\obj\Debug\net7.0\refint\CrmUygulamasi.BLL.dll
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.BLL\obj\Debug\net7.0\CrmUygulamasi.BLL.pdb
+C:\GitHub\aykutbastug\AcunMedya_OgleGrubu\ASP.NET Core MVC\CrmUygulamasi\CrmUygulamasi.BLL\obj\Debug\net7.0\ref\CrmUygulamasi.BLL.dll
