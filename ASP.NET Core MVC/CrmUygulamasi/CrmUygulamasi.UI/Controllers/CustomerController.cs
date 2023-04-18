@@ -14,10 +14,10 @@ namespace CrmUygulamasi.UI.Controllers
             return View(list);
         }
 
-        public IActionResult Create() 
-        { 
-            return View();  
-        }
+        //public IActionResult Create() 
+        //{ 
+        //    return View();  
+        //}
 
         [HttpPost]
         public IActionResult Create(Customer customer)
