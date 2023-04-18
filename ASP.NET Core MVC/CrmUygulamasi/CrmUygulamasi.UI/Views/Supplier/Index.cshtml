@@ -1,7 +1,7 @@
-﻿@model IEnumerable<Customer>
+﻿@model IEnumerable<Supplier>
 
 @{
-    ViewData["Title"] = "Müşteri Listesi";
+    ViewData["Title"] = "Tedarikçi Listesi";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
@@ -13,12 +13,12 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-                    <h1>Müşteri Listesi</h1>
+                    <h1>Tedarikçi Listesi</h1>
                 </div>
                 <div class="col-sm-6">
                     <ol class="breadcrumb float-sm-right">
                         <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Dashboard</a></li>
-                        <li class="breadcrumb-item active">Müşteri Listesi</li>
+                        <li class="breadcrumb-item active">Tedarikçi Listesi</li>
                     </ol>
                 </div>
             </div>
@@ -48,7 +48,7 @@
                         <div class="card">
                             <div class="card-header">
                                 
-                                <a class="btn btn-primary btn-sm" data-toggle="modal" data-target="#modalCustomerCreate">Yeni Müşteri Oluştur</a>
+                                <a class="btn btn-primary btn-sm" data-toggle="modal" data-target="#modalSupplierCreate">Yeni Tedarikçi Oluştur</a>
 
                                 <div class="card-tools">
                                     <div class="input-group input-group-sm" style="width: 150px;">
@@ -67,7 +67,7 @@
                                 <table class="table table-hover text-nowrap">
                                     <thead>
                                         <tr>
-                                            <th>Müşteri No</th>
+                                            <th>Tedarikçi No</th>
                                             <th>Firma Adı</th>
                                             <th>Email</th>
                                             <th>Telefon</th>
@@ -87,8 +87,8 @@
                                                 <td>@item.TaxAdmin</td>
                                                 <td>@item.TaxNumber</td>
                                                 <td>
-                                                    <a onclick="openCustomerDeleteModal(@item.Id)" class="btn btn-danger btn-sm" title="Kaydı Sil"><i class="fa fa-trash"></i></a>
-                                                    <a onclick="openCustomerEditModal(@item.Id)" class="btn btn-warning btn-sm" title="Kaydı Güncelle"><i class="fa fa-edit"></i></a>
+                                                    <a onclick="openSupplierDeleteModal(@item.Id)" class="btn btn-danger btn-sm" title="Kaydı Sil"><i class="fa fa-trash"></i></a>
+                                                    <a onclick="openSupplierEditModal(@item.Id)" class="btn btn-warning btn-sm" title="Kaydı Güncelle"><i class="fa fa-edit"></i></a>
                                                 </td>
                                             </tr>
                                         }
@@ -115,21 +115,21 @@
 <!-- /.content-wrapper -->
 
 
-<div class="modal fade" id="modalCustomerCreate">
+<div class="modal fade" id="modalSupplierCreate">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">Müşteri Oluştur</h4>
+                <h4 class="modal-title">Tedarikçi Oluştur</h4>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
             <div class="modal-body">
-                @Html.Partial("_CreateCustomerPartialView", new Customer())
+                @Html.Partial("_CreateSupplierPartialView", new Supplier())
             </div>
             <div class="modal-footer justify-content-between">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                <button type="submit" class="btn btn-primary" form="formCustomerCreate">Kaydet</button>
+                <button type="submit" class="btn btn-primary" form="formSupplierCreate">Kaydet</button>
             </div>
         </div>
         <!-- /.modal-content -->
@@ -138,21 +138,21 @@
 </div>
 
 
-<div class="modal fade" id="modalCustomerEdit">
+<div class="modal fade" id="modalSupplierEdit">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">Müşteri Güncelle</h4>
+                <h4 class="modal-title">Tedarikçi Güncelle</h4>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
             <div class="modal-body">
-                <div id="divEditCustomerModal"></div>
+                <div id="divEditSupplierModal"></div>
             </div>
             <div class="modal-footer justify-content-between">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                <button type="submit" class="btn btn-primary" form="formCustomerEdit">Kaydet</button>
+                <button type="submit" class="btn btn-primary" form="formSupplierEdit">Kaydet</button>
             </div>
         </div>
         <!-- /.modal-content -->
@@ -161,21 +161,21 @@
 </div>
 
 
-<div class="modal fade" id="modalCustomerDelete">
+<div class="modal fade" id="modalSupplierDelete">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">Müşteri Sil</h4>
+                <h4 class="modal-title">Tedarikçi Sil</h4>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
             <div class="modal-body">
-                <div id="divDeleteCustomerModal"></div>
+                <div id="divDeleteSupplierModal"></div>
             </div>
             <div class="modal-footer justify-content-between">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                <button type="submit" class="btn btn-danger" form="formCustomerDelete">Sil</button>
+                <button type="submit" class="btn btn-danger" form="formSupplierDelete">Sil</button>
             </div>
         </div>
         <!-- /.modal-content -->
@@ -185,14 +185,14 @@
 
 @section Scripts{
     <script>
-        function openCustomerEditModal(id){
-            $("#divEditCustomerModal").load("Customer/EditCustomerPartial/" + id);
-            $("#modalCustomerEdit").modal("toggle");
+        function openSupplierEditModal(id){
+            $("#divEditSupplierModal").load("Supplier/EditSupplierPartial/" + id);
+            $("#modalSupplierEdit").modal("toggle");
         }
 
-        function openCustomerDeleteModal(id) {
-            $("#divDeleteCustomerModal").load("Customer/DeleteCustomerPartial/" + id);
-            $("#modalCustomerDelete").modal("toggle");
+        function openSupplierDeleteModal(id) {
+            $("#divDeleteSupplierModal").load("Supplier/DeleteSupplierPartial/" + id);
+            $("#modalSupplierDelete").modal("toggle");
         }
     </script>
 }

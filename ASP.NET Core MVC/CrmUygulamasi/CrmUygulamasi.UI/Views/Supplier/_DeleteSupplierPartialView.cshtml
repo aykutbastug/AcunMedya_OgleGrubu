@@ -1,0 +1,45 @@
+﻿@model CrmUygulamasi.Entites.Supplier
+
+<form asp-action="Delete" id="formSupplierDelete">
+    <input type="hidden" asp-for="Id" />
+    <div>
+        <dl class="row">
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.CompanyName)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.CompanyName)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Phone)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Phone)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.TaxAdmin)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.TaxAdmin)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.TaxNumber)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.TaxNumber)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Id)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Id)
+            </dd>
+        </dl>
+    </div>
+</form>
