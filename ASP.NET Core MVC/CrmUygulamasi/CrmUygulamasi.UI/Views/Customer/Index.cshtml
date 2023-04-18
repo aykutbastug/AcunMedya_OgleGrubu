@@ -87,8 +87,8 @@
                                                 <td>@item.TaxAdmin</td>
                                                 <td>@item.TaxNumber</td>
                                                 <td>
-                                                    <a class="btn btn-danger btn-sm" title="Kaydı Sil"><i class="fa fa-trash"></i></a>
-                                                    <a class="btn btn-warning btn-sm" title="Kaydı Güncelle"><i class="fa fa-edit"></i></a>
+                                                    <a onclick="openCustomerDeleteModal(@item.Id)" class="btn btn-danger btn-sm" title="Kaydı Sil"><i class="fa fa-trash"></i></a>
+                                                    <a onclick="openCustomerEditModal(@item.Id)" class="btn btn-warning btn-sm" title="Kaydı Güncelle"><i class="fa fa-edit"></i></a>
                                                 </td>
                                             </tr>
                                         }
@@ -136,3 +136,63 @@
     </div>
     <!-- /.modal-dialog -->
 </div>
+
+
+<div class="modal fade" id="modalCustomerEdit">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Müşteri Güncelle</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div id="divEditCustomerModal"></div>
+            </div>
+            <div class="modal-footer justify-content-between">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="submit" class="btn btn-primary" form="formCustomerEdit">Kaydet</button>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+
+
+<div class="modal fade" id="modalCustomerDelete">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Müşteri Sil</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div id="divDeleteCustomerModal"></div>
+            </div>
+            <div class="modal-footer justify-content-between">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="submit" class="btn btn-danger" form="formCustomerDelete">Sil</button>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+
+@section Scripts{
+    <script>
+        function openCustomerEditModal(id){
+            $("#divEditCustomerModal").load("Customer/EditCustomerPartial/" + id);
+            $("#modalCustomerEdit").modal("toggle");
+        }
+
+        function openCustomerDeleteModal(id) {
+            $("#divDeleteCustomerModal").load("Customer/DeleteCustomerPartial/" + id);
+            $("#modalCustomerDelete").modal("toggle");
+        }
+    </script>
+}

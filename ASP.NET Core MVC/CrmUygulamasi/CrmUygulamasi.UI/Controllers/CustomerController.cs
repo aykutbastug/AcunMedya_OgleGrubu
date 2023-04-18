@@ -14,15 +14,38 @@ namespace CrmUygulamasi.UI.Controllers
             return View(list);
         }
 
-        //public IActionResult Create() 
-        //{ 
-        //    return View();  
-        //}
-
         [HttpPost]
         public IActionResult Create(Customer customer)
         {
             customerManager.Create(customer);
+            return RedirectToAction(nameof(Index));
+        }
+
+        public IActionResult EditCustomerPartial(int id)
+        {
+            Customer customer = customerManager.Get(id);
+
+            return PartialView("_EditCustomerPartialView", customer);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(Customer customer)
+        {
+            customerManager.Update(customer);
+            return RedirectToAction(nameof(Index));
+        }
+
+        public IActionResult DeleteCustomerPartial(int id)
+        {
+            Customer customer = customerManager.Get(id);
+
+            return PartialView("_DeleteCustomerPartialView", customer);
+        }
+
+        [HttpPost]
+        public IActionResult Delete(Customer customer)
+        {
+            customerManager.Delete(customer);
             return RedirectToAction(nameof(Index));
         }
     }

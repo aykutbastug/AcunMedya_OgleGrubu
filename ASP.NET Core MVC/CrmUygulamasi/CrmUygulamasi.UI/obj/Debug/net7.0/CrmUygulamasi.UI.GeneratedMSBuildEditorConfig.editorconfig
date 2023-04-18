@@ -24,6 +24,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcX0NyZWF0ZUN1c3RvbWVyUGFydGlhbFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/GitHub/aykutbastug/AcunMedya_OgleGrubu/ASP.NET Core MVC/CrmUygulamasi/CrmUygulamasi.UI/Views/Customer/_DeleteCustomerPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcX0RlbGV0ZUN1c3RvbWVyUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitHub/aykutbastug/AcunMedya_OgleGrubu/ASP.NET Core MVC/CrmUygulamasi/CrmUygulamasi.UI/Views/Customer/_EditCustomerPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcX0VkaXRDdXN0b21lclBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/GitHub/aykutbastug/AcunMedya_OgleGrubu/ASP.NET Core MVC/CrmUygulamasi/CrmUygulamasi.UI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
