@@ -1,6 +1,6 @@
 ﻿function openCreateModal(entityName) {
     $("#divCreateModalDetail").load(entityName + "/Create" + entityName + "Partial");
-    $("#modal" + entityName + "Edit").modal("toggle");
+    $("#modal" + entityName + "Create").modal("toggle");
 }
 
 function openEditModal(entityName, id) {
