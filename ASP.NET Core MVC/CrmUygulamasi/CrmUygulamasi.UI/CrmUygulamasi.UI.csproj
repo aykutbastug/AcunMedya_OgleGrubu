@@ -15,8 +15,4 @@
     <ProjectReference Include="..\CrmUygulamasi.Entites\CrmUygulamasi.Entites.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>

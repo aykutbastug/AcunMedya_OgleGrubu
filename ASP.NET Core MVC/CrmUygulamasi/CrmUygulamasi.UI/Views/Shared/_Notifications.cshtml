@@ -1,0 +1,30 @@
+﻿@using CrmUygulamasi.UI.Services
+@inject INotificationService NotificationService
+
+@{
+    var notifies = NotificationService.GetNotifications();
+    if (notifies != null && notifies.Any())
+    {
+        foreach (var item in notifies)
+        {
+            switch (item.Type)
+            {
+                case NotifyType.Success:
+                    <script>
+                        toastr.success('@item.Message')
+                    </script>
+                    break;
+                case NotifyType.Error:
+                    <script>
+                        toastr.error('@item.Message')
+                    </script>
+                    break;
+                case NotifyType.Warning:
+                    <script>
+                        toastr.warning('@item.Message')
+                    </script>
+                    break;
+            }
+        }
+    }
+}

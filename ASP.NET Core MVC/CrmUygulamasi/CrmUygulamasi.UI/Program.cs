@@ -1,3 +1,5 @@
+using CrmUygulamasi.UI.Services;
+
 namespace CrmUygulamasi.UI
 {
     public class Program
@@ -8,6 +10,8 @@ namespace CrmUygulamasi.UI
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddHttpContextAccessor();
+            builder.Services.AddScoped<INotificationService, NotificationService>();
 
             var app = builder.Build();
 
