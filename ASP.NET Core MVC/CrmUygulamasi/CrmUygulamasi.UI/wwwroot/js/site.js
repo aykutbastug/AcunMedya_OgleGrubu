@@ -1,4 +1,14 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿function openCreateModal(entityName) {
+    $("#divCreateModalDetail").load(entityName + "/Create" + entityName + "Partial");
+    $("#modal" + entityName + "Edit").modal("toggle");
+}
 
-// Write your JavaScript code.
+function openEditModal(entityName, id) {
+    $("#divEditModalDetail").load(entityName + "/Edit" + entityName + "Partial/" + id);
+    $("#modal" + entityName + "Edit").modal("toggle");
+}
+
+function openDeleteModal(entityName, id) {
+    $("#divDeleteModalDetail").load(entityName + "/Delete" + entityName + "Partial/" + id);
+    $("#modal" + entityName + "Delete").modal("toggle");
+}

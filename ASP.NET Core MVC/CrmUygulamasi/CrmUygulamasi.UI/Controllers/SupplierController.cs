@@ -21,6 +21,11 @@ namespace CrmUygulamasi.UI.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        public IActionResult CreateSupplierPartial()
+        {
+            return PartialView("_CreateSupplierPartialView", new Supplier());
+        }
+
         public IActionResult EditSupplierPartial(int id)
         {
             Supplier supplier = supplierManager.Get(id);

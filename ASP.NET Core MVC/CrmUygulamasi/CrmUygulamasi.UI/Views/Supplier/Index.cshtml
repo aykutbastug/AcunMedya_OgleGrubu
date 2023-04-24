@@ -48,7 +48,7 @@
                         <div class="card">
                             <div class="card-header">
                                 
-                                <a class="btn btn-primary btn-sm" data-toggle="modal" data-target="#modalSupplierCreate">Yeni Tedarikçi Oluştur</a>
+                                <a class="btn btn-primary btn-sm" onclick="openCreateModal('Supplier')">Yeni Tedarikçi Oluştur</a>
 
                                 <div class="card-tools">
                                     <div class="input-group input-group-sm" style="width: 150px;">
@@ -87,8 +87,8 @@
                                                 <td>@item.TaxAdmin</td>
                                                 <td>@item.TaxNumber</td>
                                                 <td>
-                                                    <a onclick="openSupplierDeleteModal(@item.Id)" class="btn btn-danger btn-sm" title="Kaydı Sil"><i class="fa fa-trash"></i></a>
-                                                    <a onclick="openSupplierEditModal(@item.Id)" class="btn btn-warning btn-sm" title="Kaydı Güncelle"><i class="fa fa-edit"></i></a>
+                                                    <a onclick="openDeleteModal('Supplier', @item.Id)" class="btn btn-danger btn-sm" title="Kaydı Sil"><i class="fa fa-trash"></i></a>
+                                                    <a onclick="openEditModal('Supplier', @item.Id)" class="btn btn-warning btn-sm" title="Kaydı Güncelle"><i class="fa fa-edit"></i></a>
                                                 </td>
                                             </tr>
                                         }
@@ -115,84 +115,8 @@
 <!-- /.content-wrapper -->
 
 
-<div class="modal fade" id="modalSupplierCreate">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h4 class="modal-title">Tedarikçi Oluştur</h4>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                @Html.Partial("_CreateSupplierPartialView", new Supplier())
-            </div>
-            <div class="modal-footer justify-content-between">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                <button type="submit" class="btn btn-primary" form="formSupplierCreate">Kaydet</button>
-            </div>
-        </div>
-        <!-- /.modal-content -->
-    </div>
-    <!-- /.modal-dialog -->
-</div>
+<vc:modal modal-id="modalSupplierCreate" header-text="Tedarikçi Oluştur" form-id="formSupplierCreate" button-text="Kaydet" button-class="primary" detail-div-id="divCreateModalDetail"></vc:modal>
 
+<vc:modal modal-id="modalSupplierEdit" header-text="Tedarikçi Güncelle" form-id="formSupplierEdit" button-text="Kaydet" button-class="primary" detail-div-id="divEditModalDetail"></vc:modal>
 
-<div class="modal fade" id="modalSupplierEdit">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h4 class="modal-title">Tedarikçi Güncelle</h4>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <div id="divEditSupplierModal"></div>
-            </div>
-            <div class="modal-footer justify-content-between">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                <button type="submit" class="btn btn-primary" form="formSupplierEdit">Kaydet</button>
-            </div>
-        </div>
-        <!-- /.modal-content -->
-    </div>
-    <!-- /.modal-dialog -->
-</div>
-
-
-<div class="modal fade" id="modalSupplierDelete">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h4 class="modal-title">Tedarikçi Sil</h4>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <div id="divDeleteSupplierModal"></div>
-            </div>
-            <div class="modal-footer justify-content-between">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                <button type="submit" class="btn btn-danger" form="formSupplierDelete">Sil</button>
-            </div>
-        </div>
-        <!-- /.modal-content -->
-    </div>
-    <!-- /.modal-dialog -->
-</div>
-
-@section Scripts{
-    <script>
-        function openSupplierEditModal(id){
-            $("#divEditSupplierModal").load("Supplier/EditSupplierPartial/" + id);
-            $("#modalSupplierEdit").modal("toggle");
-        }
-
-        function openSupplierDeleteModal(id) {
-            $("#divDeleteSupplierModal").load("Supplier/DeleteSupplierPartial/" + id);
-            $("#modalSupplierDelete").modal("toggle");
-        }
-    </script>
-}
+<vc:modal modal-id="modalSupplierDelete" header-text="Tedarikçi Sil" form-id="formSupplierDelete" button-text="Sil" button-class="danger" detail-div-id="divDeleteModalDetail"></vc:modal>
