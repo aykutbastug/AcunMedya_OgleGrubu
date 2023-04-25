@@ -52,6 +52,35 @@ namespace CrmUygulamasi.DAL.Migrations
                     b.ToTable("Customers");
                 });
 
+            modelBuilder.Entity("CrmUygulamasi.Entites.Product", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("ImageUrl")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ProductName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("StockAmount")
+                        .HasColumnType("int");
+
+                    b.Property<decimal>("UnitePrice")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<int>("VatRate")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Products");
+                });
+
             modelBuilder.Entity("CrmUygulamasi.Entites.Supplier", b =>
                 {
                     b.Property<int>("Id")

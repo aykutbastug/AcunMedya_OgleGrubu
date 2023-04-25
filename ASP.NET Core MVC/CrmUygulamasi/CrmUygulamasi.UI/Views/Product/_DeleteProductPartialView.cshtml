@@ -1,0 +1,47 @@
+﻿@model CrmUygulamasi.Entites.Product
+
+<form asp-action="Delete" id="formProductDelete">
+    <input type="hidden" asp-for="Id" />
+    <input type="hidden" asp-for="ProductName" />
+
+    <div>
+        <dl class="row">
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Id)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Id)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.ProductName)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.ProductName)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.UnitePrice)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.UnitePrice)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.VatRate)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.VatRate)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.StockAmount)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.StockAmount)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.ImageUrl)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.ImageUrl)
+            </dd>
+        </dl>
+    </div>
+</form>

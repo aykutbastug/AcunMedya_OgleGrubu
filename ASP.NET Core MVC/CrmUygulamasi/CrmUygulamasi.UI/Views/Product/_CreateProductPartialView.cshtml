@@ -1,0 +1,34 @@
+﻿@model CrmUygulamasi.Entites.Product
+
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create" id="formProductCreate" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ProductName" class="control-label"></label>
+                <input asp-for="ProductName" class="form-control" />
+                <span asp-validation-for="ProductName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UnitePrice" class="control-label"></label>
+                <input asp-for="UnitePrice" class="form-control" />
+                <span asp-validation-for="UnitePrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VatRate" class="control-label"></label>
+                <input asp-for="VatRate" class="form-control" />
+                <span asp-validation-for="VatRate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StockAmount" class="control-label"></label>
+                <input asp-for="StockAmount" class="form-control" />
+                <span asp-validation-for="StockAmount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImageUrl" class="control-label"></label>
+                <input class="form-control" type="file" name="file" multiple="false" />
+            </div>           
+        </form>
+    </div>
+</div>
