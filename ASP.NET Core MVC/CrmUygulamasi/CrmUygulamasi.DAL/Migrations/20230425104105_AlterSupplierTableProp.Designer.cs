@@ -3,6 +3,7 @@ using CrmUygulamasi.DAL;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CrmUygulamasi.DAL.Migrations
 {
     [DbContext(typeof(CrmContext))]
-    partial class CrmContextModelSnapshot : ModelSnapshot
+    [Migration("20230425104105_AlterSupplierTableProp")]
+    partial class AlterSupplierTableProp
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -34,17 +37,16 @@ namespace CrmUygulamasi.DAL.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Email")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Phone")
-                        .HasMaxLength(11)
-                        .HasColumnType("nvarchar(11)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("TaxAdmin")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("TaxNumber")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");

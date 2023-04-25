@@ -25,8 +25,22 @@ namespace CrmUygulamasi.UI.Controllers
         [HttpPost]
         public IActionResult Create(Supplier supplier)
         {
-            supplierManager.Create(supplier);
-            notificationService.Notification(NotifyType.Success, $"{supplier.CompanyName} isimli tedarikçi başarılı bir şekilde kayıt edildi.");
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    supplierManager.Create(supplier);
+                    notificationService.Notification(NotifyType.Success, $"{supplier.CompanyName} isimli tedarikçi başarılı bir şekilde kayıt edildi.");
+                }
+                catch (Exception ex)
+                {
+                    notificationService.Notification(NotifyType.Error, ex.Message);
+                }
+            }
+            else
+                ModelStateControl.KontrolEt(notificationService, ModelState);
+
+
             return RedirectToAction(nameof(Index));
         }
 
@@ -44,8 +58,21 @@ namespace CrmUygulamasi.UI.Controllers
         [HttpPost]
         public IActionResult Edit(Supplier supplier)
         {
-            supplierManager.Update(supplier);
-            notificationService.Notification(NotifyType.Success, $"{supplier.CompanyName} isimli tedarikçi başarılı bir şekilde güncellendi.");
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    supplierManager.Update(supplier);
+                    notificationService.Notification(NotifyType.Success, $"{supplier.CompanyName} isimli tedarikçi başarılı bir şekilde güncellendi.");
+                }
+                catch (Exception ex)
+                {
+                    notificationService.Notification(NotifyType.Error, ex.Message);
+                }
+            }
+            else
+                ModelStateControl.KontrolEt(notificationService, ModelState);
+
             return RedirectToAction(nameof(Index));
         }
 
@@ -58,8 +85,16 @@ namespace CrmUygulamasi.UI.Controllers
         [HttpPost]
         public IActionResult Delete(Supplier supplier)
         {
-            supplierManager.Delete(supplier);
-            notificationService.Notification(NotifyType.Success, $"{supplier.CompanyName} isimli tedarikçi başarılı bir şekilde silindi.");
+            try
+            {
+                supplierManager.Delete(supplier);
+                notificationService.Notification(NotifyType.Success, $"{supplier.CompanyName} isimli tedarikçi başarılı bir şekilde silindi.");
+            }
+            catch (Exception ex)
+            {
+                notificationService.Notification(NotifyType.Error, ex.Message);
+            }
+
             return RedirectToAction(nameof(Index));
         }
     }

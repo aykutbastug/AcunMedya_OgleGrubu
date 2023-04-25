@@ -1,12 +1,20 @@
 ﻿using CrmUygulamasi.BLL;
 using CrmUygulamasi.DAL.EntityFramework;
 using CrmUygulamasi.Entites;
+using CrmUygulamasi.UI.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CrmUygulamasi.UI.Controllers
 {
     public class CustomerController : Controller
     {
+        private readonly INotificationService notificationService;
+
+        public CustomerController(INotificationService notificationService)
+        {
+            this.notificationService = notificationService;
+        }
+
         CustomerManager customerManager = new CustomerManager(new EfCustomerRepository());
         public IActionResult Index()
         {
@@ -17,7 +25,21 @@ namespace CrmUygulamasi.UI.Controllers
         [HttpPost]
         public IActionResult Create(Customer customer)
         {
-            customerManager.Create(customer);
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    customerManager.Create(customer);
+                    notificationService.Notification(NotifyType.Success, $"{customer.CompanyName} isimli müşteri başarılı bir şekilde kayıt edildi.");
+                }
+                catch (Exception ex)
+                {
+                    notificationService.Notification(NotifyType.Error, ex.Message);
+                }
+            }
+            else
+                ModelStateControl.KontrolEt(notificationService, ModelState);
+
             return RedirectToAction(nameof(Index));
         }
 
@@ -36,7 +58,21 @@ namespace CrmUygulamasi.UI.Controllers
         [HttpPost]
         public IActionResult Edit(Customer customer)
         {
-            customerManager.Update(customer);
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    customerManager.Update(customer);
+                    notificationService.Notification(NotifyType.Success, $"{customer.CompanyName} isimli müşteri başarılı bir şekilde güncellendi.");
+                }
+                catch (Exception ex)
+                {
+                    notificationService.Notification(NotifyType.Error, ex.Message);
+                }
+            }
+            else
+                ModelStateControl.KontrolEt(notificationService, ModelState);
+
             return RedirectToAction(nameof(Index));
         }
 
@@ -50,7 +86,16 @@ namespace CrmUygulamasi.UI.Controllers
         [HttpPost]
         public IActionResult Delete(Customer customer)
         {
-            customerManager.Delete(customer);
+            try
+            {
+                customerManager.Delete(customer);
+                notificationService.Notification(NotifyType.Success, $"{customer.CompanyName} isimli müşteri başarılı bir şekilde silindi.");
+            }
+            catch (Exception ex)
+            {
+                notificationService.Notification(NotifyType.Error, ex.Message);
+            }
+
             return RedirectToAction(nameof(Index));
         }
     }
