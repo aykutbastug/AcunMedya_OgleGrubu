@@ -3,7 +3,7 @@
 
 <div class="row">
     <div class="col-md-12">
-        <form asp-action="Edit" id="formProductEdit">
+        <form asp-action="Edit" id="formProductEdit" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="Id" class="control-label"></label>
@@ -31,9 +31,15 @@
                 <span asp-validation-for="StockAmount" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <input asp-for="ImageUrl" type="hidden" />
+            </div>
+            <div class="form-group">
                 <label asp-for="ImageUrl" class="control-label"></label>
-                <input asp-for="ImageUrl" class="form-control" />
-                <span asp-validation-for="ImageUrl" class="text-danger"></span>
+                <input class="form-control" type="file" name="file" multiple="false" />
+            </div>
+
+            <div class="form-group">
+                <img class="img-fluid" src="~/images/product/@Model.ImageUrl" alt="Photo">
             </div>
         </form>
     </div>

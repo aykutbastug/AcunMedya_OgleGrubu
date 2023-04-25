@@ -77,12 +77,31 @@ namespace CrmUygulamasi.UI.Controllers
         }
 
         [HttpPost]
-        public IActionResult Edit(Product product)
+        public IActionResult Edit(Product product, IFormFile? file)
         {
             if (ModelState.IsValid)
             {
                 try
                 {
+                    if (file != null)
+                    {
+                        //resim upload işlemi
+                        string wwwrootPath = webHostEnvironment.WebRootPath;
+                        string fileName = Path.GetFileNameWithoutExtension(file.FileName);
+                        string extension = Path.GetExtension(file.FileName);
+
+                        string yeniDosyaAdi = fileName + DateTime.Now.ToString("yymmssfff") + extension;
+                        string path = Path.Combine(wwwrootPath + "/images/product/", yeniDosyaAdi);
+
+                        using (var fileStream = new FileStream(path, FileMode.Create))
+                        {
+                            file.CopyTo(fileStream);
+                        }
+
+                        product.ImageUrl = yeniDosyaAdi;
+                    }
+
+
                     productManager.Update(product);
                     notificationService.Notification(NotifyType.Success, $"{product.ProductName} isimli ürün başarılı bir şekilde güncellendi.");
                 }

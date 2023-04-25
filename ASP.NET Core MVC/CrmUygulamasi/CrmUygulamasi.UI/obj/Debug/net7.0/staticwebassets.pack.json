@@ -293,6 +293,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\images\\product\\asus234350407.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\asus234350407.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\images\\product\\asus234807071.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\asus234807071.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\images\\product\\samsung234441427.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\samsung234441427.jpg"
+    },
+    {
       "Id": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET Core MVC\\CrmUygulamasi\\CrmUygulamasi.UI\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
