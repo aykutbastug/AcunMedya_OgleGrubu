@@ -1,0 +1,6 @@
+ÖDEV
+
+--Access denied Sayfasının oluşturulması
+--Şifremi unuttum sayfası
+--Profil sayfasının yapılması
+--Personele avatar resim eklenmesi ve template'de gösterilmesi

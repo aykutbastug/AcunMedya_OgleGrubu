@@ -1,4 +1,6 @@
-﻿<!-- Sidebar Menu -->
+﻿@using System.Security.Claims
+
+<!-- Sidebar Menu -->
 <nav class="mt-2">
     <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
         <!-- Add icons to the links using the .nav-icon class
@@ -35,11 +37,23 @@
                 </p>
             </a>
         </li>
+        @if (User.FindFirst(ClaimTypes.Role).Value == "Admin")
+        {
+            <li class="nav-item">
+                <a asp-controller="Employee" asp-action="Index" class="nav-link">
+                    <i class="nav-icon far fa-user"></i>
+                    <p>
+                        Personeller
+                    </p>
+                </a>
+            </li>
+        }
+        
         <li class="nav-item">
-            <a asp-controller="Employee" asp-action="Index" class="nav-link">
-                <i class="nav-icon far fa-user"></i>
+            <a asp-controller="Auth" asp-action="Logout" class="nav-link">
+                <i class="nav-icon fas fa-lock"></i>
                 <p>
-                    Personeller
+                    Güvenli Çıkış
                 </p>
             </a>
         </li>

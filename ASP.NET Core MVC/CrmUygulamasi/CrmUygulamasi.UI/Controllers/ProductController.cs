@@ -2,10 +2,12 @@
 using CrmUygulamasi.DAL.EntityFramework;
 using CrmUygulamasi.Entites;
 using CrmUygulamasi.UI.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CrmUygulamasi.UI.Controllers
 {
+    [Authorize]
     public class ProductController : Controller
     {
         private readonly INotificationService notificationService;

@@ -2,10 +2,14 @@
 using CrmUygulamasi.DAL.EntityFramework;
 using CrmUygulamasi.Entites;
 using CrmUygulamasi.UI.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CrmUygulamasi.UI.Controllers
 {
+    [Authorize(Roles = "Admin")]
+    //[Authorize(Roles = "User")]
+    //[Authorize(Roles = "User, Admin")]
     public class EmployeeController : Controller
     {
         private readonly INotificationService notificationService;
@@ -22,6 +26,7 @@ namespace CrmUygulamasi.UI.Controllers
             return View(list);
         }
 
+        //[AllowAnonymous]
         [HttpPost]
         public IActionResult Create(Employee employee)
         {
