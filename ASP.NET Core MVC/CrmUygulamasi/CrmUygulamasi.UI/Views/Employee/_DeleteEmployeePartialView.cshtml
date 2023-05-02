@@ -1,0 +1,45 @@
+﻿@model Employee
+
+<form asp-action="Delete" id="formEmployeeDelete">
+    <input type="hidden" asp-for="Id" />
+    <div>
+        <dl class="row">
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.NameSurname)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.NameSurname)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Phone)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Phone)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Role)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Role)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.State)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.State)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Id)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Id)
+            </dd>
+        </dl>
+    </div>
+</form>

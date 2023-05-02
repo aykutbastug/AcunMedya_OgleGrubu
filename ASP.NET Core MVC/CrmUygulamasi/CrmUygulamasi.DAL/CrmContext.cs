@@ -13,6 +13,7 @@ namespace CrmUygulamasi.DAL
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Supplier> Suppliers { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<Employee> Employees { get; set; }
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
