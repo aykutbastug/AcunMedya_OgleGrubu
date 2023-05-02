@@ -5,7 +5,6 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-
 <!-- Content Wrapper. Contains page content -->
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->
@@ -84,8 +83,26 @@
                                                 <td>@item.NameSurname</td>
                                                 <td>@item.Email</td>
                                                 <td>@item.Phone</td>
-                                                <td>@item.State</td>
-                                                <td>@item.Role</td>
+                                                <td>
+                                                    @if (item.State)
+                                                    {
+                                                        <span class="badge badge-success" style="cursor:pointer;" title="Durumu değiştirmek için tıklayınız" onclick="updateEmployeeState(@item.Id)">Aktif</span>
+                                                    }
+                                                    else
+                                                    {
+                                                        <span class="badge badge-danger" style="cursor:pointer;" title="Durumu değiştirmek için tıklayınız" onclick="updateEmployeeState(@item.Id)">Pasif</span>
+                                                    }
+                                                </td>
+                                                <td>
+                                                    @if (item.Role == "Admin")
+                                                    {
+                                                        <span class="badge badge-success">@item.Role</span>
+                                                    }
+                                                    else
+                                                    {
+                                                        <span class="badge badge-danger">@item.Role</span>
+                                                    }
+                                                </td>
                                                 <td>
                                                     <a onclick="openDeleteModal('Employee', @item.Id)" class="btn btn-danger btn-sm" title="Kaydı Sil"><i class="fa fa-trash"></i></a>
                                                     <a onclick="openEditModal('Employee', @item.Id)" class="btn btn-warning btn-sm" title="Kaydı Güncelle"><i class="fa fa-edit"></i></a>
@@ -120,3 +137,29 @@
 <vc:modal modal-id="modalEmployeeEdit" header-text="Personel Güncelle" form-id="formEmployeeEdit" button-text="Kaydet" button-class="primary" detail-div-id="divEditModalDetail"></vc:modal>
 
 <vc:modal modal-id="modalEmployeeDelete" header-text="Personel Sil" form-id="formEmployeeDelete" button-text="Sil" button-class="danger" detail-div-id="divDeleteModalDetail"></vc:modal>
+
+
+@section Scripts {
+    <!-- Bootstrap Switch -->
+    <script src="~/plugins/bootstrap-switch/js/bootstrap-switch.min.js"></script>
+
+
+
+    <script>
+        function updateEmployeeState(empId)
+        {
+            $.ajax({
+                type:'POST',
+                url: '/Employee/UpdateEmployeeState/' + empId,
+                //data: "email: 'asasd', password: 'asda'",
+                success: function (result){
+                    toastr.success(result);
+                    location.reload(true);
+                },
+                error: function () {
+                    toastr.error("İşlem sırasında hata oluştu..");
+                },
+            });
+        }
+    </script>
+}

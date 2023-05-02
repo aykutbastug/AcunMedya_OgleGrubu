@@ -98,5 +98,16 @@ namespace CrmUygulamasi.UI.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+
+        [HttpPost]
+        public IActionResult UpdateEmployeeState(int id) 
+        {
+            var employee = employeeManager.Get(id);
+            employee.State = !employee.State;
+            employeeManager.Update(employee);
+            notificationService.Notification(NotifyType.Success, $"{employee.NameSurname} isimli personel başarılı bir şekilde güncellendi.");
+
+            return Ok("Personel durumu güncellendi..");
+        }
     }
 }
