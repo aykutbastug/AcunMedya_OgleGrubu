@@ -1,5 +1,6 @@
-
+﻿
 using _01_EFCore.Entities;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace _01_EFCore
@@ -9,6 +10,11 @@ namespace _01_EFCore
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            //.NET Wep API validation yapısını devre dışı etmek için kullanılır
+            //builder.Services.Configure<ApiBehaviorOptions>(opt =>
+            //    opt.SuppressModelStateInvalidFilter = true    
+            //);
 
             builder.Services.AddDbContext<TodoDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString"))
