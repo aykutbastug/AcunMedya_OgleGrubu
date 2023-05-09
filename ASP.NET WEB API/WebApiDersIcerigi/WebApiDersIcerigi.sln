@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-EFCore", "01-EFCore\01-EFCore.csproj", "{33059840-ED2A-4101-8B2F-393A495B01E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-EFCore", "01-EFCore\01-EFCore.csproj", "{33059840-ED2A-4101-8B2F-393A495B01E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-ActionFilterKavrami", "02-ActionFilterKavrami\02-ActionFilterKavrami.csproj", "{793A2B68-B8CA-4B02-8B8D-0BAC3E31C266}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-BasicAuthenticationKullanimi", "03-BasicAuthenticationKullanimi\03-BasicAuthenticationKullanimi.csproj", "{157A331C-B352-4FB0-A595-492EB294268D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-JwtAuthKullanimi", "04-JwtAuthKullanimi\04-JwtAuthKullanimi.csproj", "{DE181771-2C7D-4755-8AF6-7388E3D67B08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{33059840-ED2A-4101-8B2F-393A495B01E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33059840-ED2A-4101-8B2F-393A495B01E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33059840-ED2A-4101-8B2F-393A495B01E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{793A2B68-B8CA-4B02-8B8D-0BAC3E31C266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793A2B68-B8CA-4B02-8B8D-0BAC3E31C266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793A2B68-B8CA-4B02-8B8D-0BAC3E31C266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793A2B68-B8CA-4B02-8B8D-0BAC3E31C266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{157A331C-B352-4FB0-A595-492EB294268D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157A331C-B352-4FB0-A595-492EB294268D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157A331C-B352-4FB0-A595-492EB294268D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157A331C-B352-4FB0-A595-492EB294268D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE181771-2C7D-4755-8AF6-7388E3D67B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE181771-2C7D-4755-8AF6-7388E3D67B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE181771-2C7D-4755-8AF6-7388E3D67B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE181771-2C7D-4755-8AF6-7388E3D67B08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

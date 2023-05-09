@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nCUAC3I+BpvKoiVpR1BvMfsmAUg4zZEZQIR4C8Nm8b2RuFl1vX+GWwvoN5pdNMErQYPMnPIipaRgiDycNg+FQw==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\aykutbastug\\AcunMedya_OgleGrubu\\ASP.NET WEB API\\WebApiDersIcerigi\\03-BasicAuthenticationKullanimi\\03-BasicAuthenticationKullanimi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aykut\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\aykut\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\aykut\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\aykut\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\aykut\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\aykut\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\aykut\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

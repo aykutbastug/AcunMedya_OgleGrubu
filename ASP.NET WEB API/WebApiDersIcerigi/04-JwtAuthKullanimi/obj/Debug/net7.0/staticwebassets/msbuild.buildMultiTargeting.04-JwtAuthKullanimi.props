@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\04-JwtAuthKullanimi.props" />
+</Project>
